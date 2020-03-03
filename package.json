@@ -1,14 +1,17 @@
 {
-  "name": "cnki",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "puppeteer": "^2.1.1"
-  }
+	"name": "cnki",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js",
+		"analysis": "node ./src/analysis.js",
+		"abstract": "node ./src/getAbs.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"puppeteer": "^2.1.1"
+	}
 }
