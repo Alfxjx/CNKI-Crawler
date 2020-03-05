@@ -7,12 +7,15 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "node index.js",
 		"analysis": "node ./src/analysis.js",
-		"abstract": "node ./src/getAbs.js"
+		"abstract": "node ./src/getAbs.js",
+    "execl": "node ./src/toExcel.js",
+    "pdf": "node ./src/pdfParser.js"
 	},
-	"author": "",
+	"author": "xujx",
 	"license": "ISC",
 	"dependencies": {
 		"exceljs": "^3.8.1",
+		"pdf2json": "^1.1.8",
 		"puppeteer": "^2.1.1"
 	}
 }
