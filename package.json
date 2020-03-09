@@ -9,7 +9,8 @@
 		"analysis": "node ./src/analysis.js",
 		"abstract": "node ./src/getAbs.js",
     "execl": "node ./src/toExcel.js",
-    "pdf": "node ./src/pdfParser.js"
+    "pdf": "node ./src/pdfParser.js",
+    "patents":"node ./src/patents/index.js"
 	},
 	"author": "xujx",
 	"license": "ISC",
