@@ -8,13 +8,14 @@
 		"start": "node index.js",
 		"analysis": "node ./src/analysis.js",
 		"abstract": "node ./src/getAbs.js",
-    "execl": "node ./src/toExcel.js",
-    "pdf": "node ./src/pdfParser.js",
-    "patents":"node ./src/patents/index.js"
+		"execl": "node ./src/toExcel.js",
+		"pdf": "node ./src/pdfParser.js",
+		"patents": "node ./src/patents/index.js"
 	},
 	"author": "xujx",
 	"license": "ISC",
 	"dependencies": {
+		"cheerio": "^1.0.0-rc.3",
 		"exceljs": "^3.8.1",
 		"pdf2json": "^1.1.8",
 		"puppeteer": "^2.1.1"
