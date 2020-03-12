@@ -1,0 +1,859 @@
+{
+	"data": [
+		{
+			"id": "CN110640262A",
+			"dbname": "SCPD2020",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2020&filename=CN110640262A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN108406158A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN108406158A",
+			"name": [
+				"杜俊德"
+			]
+		},
+		{
+			"id": "CN108372338A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN108372338A",
+			"name": [
+				"江涛"
+			]
+		},
+		{
+			"id": "CN108367373A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN108367373A",
+			"name": [
+				"A·梅尼彻"
+			]
+		},
+		{
+			"id": "CN108367379A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN108367379A",
+			"name": [
+				"手泽和宏"
+			]
+		},
+		{
+			"id": "CN108274097A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN108274097A",
+			"name": [
+				"柯晓龙"
+			]
+		},
+		{
+			"id": "CN108136550A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN108136550A",
+			"name": [
+				"A·拉格奎斯特"
+			]
+		},
+		{
+			"id": "CN107635707A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107635707A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107635708A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107635708A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107614180A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107614180A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107580533A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107580533A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107567366A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107567366A",
+			"name": [
+				"马克·史蒂文·卡德莱茨"
+			]
+		},
+		{
+			"id": "CN107567367A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107567367A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107567368A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107567368A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107548333A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107548333A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107548334A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107548334A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107530839A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107530839A",
+			"name": [
+				"安东尼·约瑟夫·科沃斯基"
+			]
+		},
+		{
+			"id": "CN107530815A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107530815A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107530814A",
+			"dbname": "SCPD2018",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2018&filename=CN107530814A",
+			"name": [
+				"詹姆斯·F·乌尔里奇"
+			]
+		},
+		{
+			"id": "CN107206526A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107206526A",
+			"name": [
+				"罗伯特·赖默斯"
+			]
+		},
+		{
+			"id": "CN107206538A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107206538A",
+			"name": [
+				"阿泽迪纳·谢尔吉"
+			]
+		},
+		{
+			"id": "CN107206545A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107206545A",
+			"name": [
+				"约翰·P·丁克埃尔曼"
+			]
+		},
+		{
+			"id": "CN107206553A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107206553A",
+			"name": [
+				"A·里克尔姆"
+			]
+		},
+		{
+			"id": "CN107107234A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107107234A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107107237A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107107237A",
+			"name": [
+				"威廉·约书亚·贝克尔"
+			]
+		},
+		{
+			"id": "CN107107239A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107107239A",
+			"name": [
+				"马克·李·丹尼斯"
+			]
+		},
+		{
+			"id": "CN107107242A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107107242A",
+			"name": [
+				"H·恩斯布鲁纳"
+			]
+		},
+		{
+			"id": "CN107107262A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107107262A",
+			"name": [
+				"克里斯蒂安·拜尔"
+			]
+		},
+		{
+			"id": "CN107107270A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107107270A",
+			"name": [
+				"增田健司"
+			]
+		},
+		{
+			"id": "CN107107271A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107107271A",
+			"name": [
+				"J-M·魏克"
+			]
+		},
+		{
+			"id": "CN107073617A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107073617A",
+			"name": [
+				"A·延里希"
+			]
+		},
+		{
+			"id": "CN107073627A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107073627A",
+			"name": [
+				"J·A·丹尼尔"
+			]
+		},
+		{
+			"id": "CN107073631A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107073631A",
+			"name": [
+				"井手章博"
+			]
+		},
+		{
+			"id": "CN107073636A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107073636A",
+			"name": [
+				"罗马里克·勒诺"
+			]
+		},
+		{
+			"id": "CN107073643A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107073643A",
+			"name": [
+				"绪方稔"
+			]
+		},
+		{
+			"id": "CN107000105A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107000105A",
+			"name": [
+				"蕗泽武夫"
+			]
+		},
+		{
+			"id": "CN107000108A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107000108A",
+			"name": [
+				"阿泽迪纳·谢尔吉"
+			]
+		},
+		{
+			"id": "CN107000122A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107000122A",
+			"name": [
+				"托马斯·拉特"
+			]
+		},
+		{
+			"id": "CN107000126A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107000126A",
+			"name": [
+				"J·古茨曼"
+			]
+		},
+		{
+			"id": "CN107000128A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107000128A",
+			"name": [
+				"B·任"
+			]
+		},
+		{
+			"id": "CN107000129A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107000129A",
+			"name": [
+				"迈克尔·文森特·赫格尔"
+			]
+		},
+		{
+			"id": "CN107000135A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN107000135A",
+			"name": [
+				"塞尔吉奥·波索尼"
+			]
+		},
+		{
+			"id": "CN106925867A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925867A",
+			"name": [
+				"赵建军"
+			]
+		},
+		{
+			"id": "CN106925870A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925870A",
+			"name": [
+				"李勤峰"
+			]
+		},
+		{
+			"id": "CN106925876A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925876A",
+			"name": [
+				"李悦勇"
+			]
+		},
+		{
+			"id": "CN106925877A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925877A",
+			"name": [
+				"李悦勇"
+			]
+		},
+		{
+			"id": "CN106925889A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925889A",
+			"name": [
+				"杜秋"
+			]
+		},
+		{
+			"id": "CN106925890A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925890A",
+			"name": [
+				"乔旭浩"
+			]
+		},
+		{
+			"id": "CN106925899A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925899A",
+			"name": [
+				"林晟杰"
+			]
+		},
+		{
+			"id": "CN106925900A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925900A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925907A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925907A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925908A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925908A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925909A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925909A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925910A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925910A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925911A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925911A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925912A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925912A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925913A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925913A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925914A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925914A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925915A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925915A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925916A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925916A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925917A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925917A",
+			"name": [
+				"潘文斋"
+			]
+		},
+		{
+			"id": "CN106925921A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925921A",
+			"name": [
+				"邱文良"
+			]
+		},
+		{
+			"id": "CN106925925A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925925A",
+			"name": [
+				"刘德元"
+			]
+		},
+		{
+			"id": "CN106925927A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925927A",
+			"name": [
+				"孟明华"
+			]
+		},
+		{
+			"id": "CN106925930A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925930A",
+			"name": [
+				"张北生"
+			]
+		},
+		{
+			"id": "CN106925933A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106925933A",
+			"name": [
+				"刘德元"
+			]
+		},
+		{
+			"id": "CN106914685A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914685A",
+			"name": [
+				"江曼曼"
+			]
+		},
+		{
+			"id": "CN106914687A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914687A",
+			"name": [
+				"李小波"
+			]
+		},
+		{
+			"id": "CN106914688A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914688A",
+			"name": [
+				"刘静"
+			]
+		},
+		{
+			"id": "CN106914689A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914689A",
+			"name": [
+				"刘静"
+			]
+		},
+		{
+			"id": "CN106914690A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914690A",
+			"name": [
+				"刘静"
+			]
+		},
+		{
+			"id": "CN106914699A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914699A",
+			"name": [
+				"白江涛"
+			]
+		},
+		{
+			"id": "CN106914715A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914715A",
+			"name": [
+				"马兰"
+			]
+		},
+		{
+			"id": "CN106914716A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914716A",
+			"name": [
+				"毛丽君"
+			]
+		},
+		{
+			"id": "CN106914720A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914720A",
+			"name": [
+				"王小波"
+			]
+		},
+		{
+			"id": "CN106914721A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106914721A",
+			"name": [
+				"白江涛"
+			]
+		},
+		{
+			"id": "CN106903447A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106903447A",
+			"name": [
+				"贾奎中"
+			]
+		},
+		{
+			"id": "CN106903460A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106903460A",
+			"name": [
+				"孙忠斌"
+			]
+		},
+		{
+			"id": "CN106891072A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891072A",
+			"name": [
+				"刘彪"
+			]
+		},
+		{
+			"id": "CN106891073A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891073A",
+			"name": [
+				"王天"
+			]
+		},
+		{
+			"id": "CN106891086A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891086A",
+			"name": [
+				"张玮"
+			]
+		},
+		{
+			"id": "CN106891093A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891093A",
+			"name": [
+				"沈玉英"
+			]
+		},
+		{
+			"id": "CN106891100A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891100A",
+			"name": [
+				"王欣欣"
+			]
+		},
+		{
+			"id": "CN106891109A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891109A",
+			"name": [
+				"刘彪"
+			]
+		},
+		{
+			"id": "CN106891110A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891110A",
+			"name": [
+				"王文标"
+			]
+		},
+		{
+			"id": "CN106891116A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891116A",
+			"name": [
+				"王欣欣"
+			]
+		},
+		{
+			"id": "CN106891117A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891117A",
+			"name": [
+				"王欣欣"
+			]
+		},
+		{
+			"id": "CN106891118A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891118A",
+			"name": [
+				"王欣欣"
+			]
+		},
+		{
+			"id": "CN106891119A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891119A",
+			"name": [
+				"王欣欣"
+			]
+		},
+		{
+			"id": "CN106891120A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106891120A",
+			"name": [
+				"王坤"
+			]
+		},
+		{
+			"id": "CN106881515A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106881515A",
+			"name": [
+				"夏春福"
+			]
+		},
+		{
+			"id": "CN106881529A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106881529A",
+			"name": [
+				"黄燕"
+			]
+		},
+		{
+			"id": "CN106881533A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106881533A",
+			"name": [
+				"黄燕"
+			]
+		},
+		{
+			"id": "CN106881534A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106881534A",
+			"name": [
+				"刘勇"
+			]
+		},
+		{
+			"id": "CN106881540A",
+			"dbname": "SCPD2017",
+			"dbcode": "scpd",
+			"link": "http://dbpub.cnki.net/grid2008/dbpub/detail.aspx?dbcode=scpd&dbname=SCPD2017&filename=CN106881540A",
+			"name": [
+				"李晶"
+			]
+		}
+	]
+}
