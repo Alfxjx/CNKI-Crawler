@@ -3,7 +3,7 @@ const url = 'https://cn.bing.com/';
 
 pptr.launch({
 	headless: true,
-	args: ['--no-sandbox'],
+	args: ['--no-sandbox', '--disable-setuid-sandbox'],
 }).then(async (browser) => {
 	const page = await browser.newPage();
 	await page.goto(url);
