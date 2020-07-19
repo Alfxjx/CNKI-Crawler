@@ -1,5 +1,5 @@
 const Excel = require('exceljs');
-const data = require('../data1.json');
+const data = require('../data2010to2013.json');
 
 // 数据预处理
 let input = [];
@@ -11,14 +11,14 @@ obj.forEach((item, index) => {
 	let len = item.name.length;
 
 	let link = item.link;
-	let reg = /HJXB201(4|5)([0-9]{2})/i;
+	let reg = /HJXB201(0|1|2|3)([0-9]{2})/i;
 
 	let year = -1;
 	let juan = -1;
 	let vol = -1;
 	if (link) {
 		year = link.substring(link.length - 4, link.length);
-		juan = year == 2014 ? 35 : 36;
+		juan = year - 1970;
 		vol = reg.exec(link)[2];
 	}
 
@@ -122,7 +122,7 @@ for (let j = 0; j < ret.length; j += 2) {
 	sheet.mergeCells(`R${ret[j]}:R${ret[j + 1]}`);
 }
 
-workbook.xlsx.writeFile('1.xlsx').then(function() {
+workbook.xlsx.writeFile('2010to2013.xlsx').then(function() {
 	// done
 	console.log('done');
 });

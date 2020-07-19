@@ -32,7 +32,7 @@ function getNoDotID(year, num) {
 	});
 	console.log('page加载完成！');
 	// 年份点击事件
-	let yearNum = 2014;
+	let yearNum = 2013;
 	const yearBtn = await page.$(getID(yearNum));
 	await yearBtn.click();
 	// wait
@@ -79,4 +79,5 @@ function getNoDotID(year, num) {
 	// await page.waitFor(TIME);
 
 	console.log(output);
+	// 直接复制 粘贴到src目录下
 })();
