@@ -1,0 +1,1599 @@
+{
+	"data": [
+		{
+			"title": "关于变更《焊接学报》采编平台网址的公告",
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201026&dbname=CJFD2012",
+			"start": "104"
+		},
+		{
+			"title": "电子束焊机电源控制系统的设计与实现",
+			"name": [
+				{
+					"name": "何少佳",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李建玲",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "莫金海",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李海标",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201000&dbname=CJFD2012",
+			"start": "1",
+			"end": "5"
+		},
+		{
+			"title": "超声对不同铝合金搅拌摩擦焊接头性能的影响",
+			"name": [
+				{
+					"name": "马慧坤",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "贺地求",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘金书",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201001&dbname=CJFD2012",
+			"start": "6",
+			"end": "8"
+		},
+		{
+			"title": "焊接材料对喷射成形7475铝合金TIG焊接头热裂纹的影响",
+			"name": [
+				{
+					"name": "严铿",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "叶友利",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王锡岭",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201002&dbname=CJFD2012",
+			"start": "9",
+			"end": "12"
+		},
+		{
+			"title": "移动式焊缝跟踪机器人跟踪精度分析方法",
+			"name": [
+				{
+					"name": "洪波",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张淇淋",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李湘文",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "尹力",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201003&dbname=CJFD2012",
+			"start": "13",
+			"end": "16"
+		},
+		{
+			"title": "TiAl合金与镍基高温合金的扩散连接",
+			"name": [
+				{
+					"name": "何鹏",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李海新",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "林铁松",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "黄玉东",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘羽",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "钱国统",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201004&dbname=CJFD2012",
+			"start": "17",
+			"end": "20"
+		},
+		{
+			"title": "37CrMnMo钢管径向摩擦焊接头组织与性能",
+			"name": [
+				{
+					"name": "秦国梁",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张春波",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "周军",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "齐秀滨",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张焱",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201005&dbname=CJFD2012",
+			"start": "21",
+			"end": "24"
+		},
+		{
+			"title": "旋转电弧MAG焊强迫短路过渡电流信号滤波",
+			"name": [
+				{
+					"name": "高延峰",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "肖建华",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张华",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201006&dbname=CJFD2012",
+			"start": "25",
+			"end": "28"
+		},
+		{
+			"title": "激光-电弧复合热源焊接钛合金薄板T形结构件",
+			"name": [
+				{
+					"name": "李陈宾",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘黎明",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201007&dbname=CJFD2012",
+			"start": "29",
+			"end": "32"
+		},
+		{
+			"title": "差强差厚三层板电阻点焊熔核尺寸的控制方法",
+			"name": [
+				{
+					"name": "沈洁",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "林浩磊",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张延松",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "陈关龙",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201008&dbname=CJFD2012",
+			"start": "33",
+			"end": "36"
+		},
+		{
+			"title": "热沉对焊接残余变形的影响及参数优化分析",
+			"name": [
+				{
+					"name": "赵利华",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张开林",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201009&dbname=CJFD2012",
+			"start": "37",
+			"end": "40"
+		},
+		{
+			"title": "高强度低焊接裂纹敏感性钢焊接热影响区的冲击韧度",
+			"name": [
+				{
+					"name": "兰亮云",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "邱春林",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "赵德文",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "高秀华",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201010&dbname=CJFD2012",
+			"start": "41",
+			"end": "44"
+		},
+		{
+			"title": "硼对等离子熔覆高硼铁基合金组织和性能的影响",
+			"name": [
+				{
+					"name": "刘政军",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李乐成",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "苏允海",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "宗琳",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201011&dbname=CJFD2012",
+			"start": "45",
+			"end": "48"
+		},
+		{
+			"title": "脉冲PAW快速成形焊缝尺寸的预测模型",
+			"name": [
+				{
+					"name": "徐富家",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "吕耀辉",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘玉欣",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "徐滨士",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "何鹏",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201012&dbname=CJFD2012",
+			"start": "49",
+			"end": "52"
+		},
+		{
+			"title": "低应力柔性CCGA焊点设计及其可靠性预测",
+			"name": [
+				{
+					"name": "赵智力",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "孙凤莲",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王丽凤",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "田崇军",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201013&dbname=CJFD2012",
+			"start": "53",
+			"end": "56"
+		},
+		{
+			"title": "SPV50Q钢焊接接头腐蚀和氢渗透性能分析",
+			"name": [
+				{
+					"name": "唐建群",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "巩建鸣",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201014&dbname=CJFD2012",
+			"start": "57",
+			"end": "60"
+		},
+		{
+			"title": "一类窄焊缝的结构光图像特征提取方法",
+			"name": [
+				{
+					"name": "陈海永",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "孙鹤旭",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "徐德",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201015&dbname=CJFD2012",
+			"start": "61",
+			"end": "64"
+		},
+		{
+			"title": "用于核环境管道维修的宏-微机器人遥控焊接",
+			"name": [
+				{
+					"name": "杜爱国",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李海超",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "陈洪堂",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "高洪明",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201016&dbname=CJFD2012",
+			"start": "65",
+			"end": "68"
+		},
+		{
+			"title": "SnAgCu-xPr钎料组织及性能",
+			"name": [
+				{
+					"name": "皋利利",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "薛松柏",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "许辉",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201017&dbname=CJFD2012",
+			"start": "69",
+			"end": "72"
+		},
+		{
+			"title": "含钪Al-Cu-Li合金氩弧焊接头组织与性能",
+			"name": [
+				{
+					"name": "刘畅",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "潘清林",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "梁文杰",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201018&dbname=CJFD2012",
+			"start": "73",
+			"end": "76"
+		},
+		{
+			"title": "T/P92钢镍对熔敷金属组织和性能的影响",
+			"name": [
+				{
+					"name": "戴启雷",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "马成勇",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "彭云",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "田志凌",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "何宜柱",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201019&dbname=CJFD2012",
+			"start": "77",
+			"end": "80"
+		},
+		{
+			"title": "电弧喷涂铁基非晶涂层摩擦磨损性能分析",
+			"name": [
+				{
+					"name": "张关震",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "贺定勇",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "周正",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王国红",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201020&dbname=CJFD2012",
+			"start": "81",
+			"end": "84"
+		},
+		{
+			"title": "稀土元素Nd对Sn-9Zn无铅钎料性能的影响",
+			"name": [
+				{
+					"name": "胡玉华",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "薛松柏",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "柳敏",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "许辉",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201021&dbname=CJFD2012",
+			"start": "85",
+			"end": "88"
+		},
+		{
+			"title": "Fe-C-Ti-Cr-B系堆焊合金组织及耐磨性能",
+			"name": [
+				{
+					"name": "冯萌",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王智慧",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "贺定勇",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "边汉民",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "陈勇",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201022&dbname=CJFD2012",
+			"start": "89",
+			"end": "92"
+		},
+		{
+			"title": "碳钢与304不锈钢焊接残余应力的计算",
+			"name": [
+				{
+					"name": "赵东升",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘玉君",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "孙敏科",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "纪卓尚",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "邓艳萍",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201023&dbname=CJFD2012",
+			"start": "93",
+			"end": "95"
+		},
+		{
+			"title": "带状电极MAG焊工艺熔滴过渡分析",
+			"name": [
+				{
+					"name": "郑森木",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "高洪明",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘鑫",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201024&dbname=CJFD2012",
+			"start": "96",
+			"end": "100"
+		},
+		{
+			"title": "含中心裂纹低匹配对接接头形状参数对形状因子的影响",
+			"name": [
+				{
+					"name": "王涛",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "杨建国",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘雪松",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "方洪渊",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "周立鹏",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201025&dbname=CJFD2012",
+			"start": "101",
+			"end": "104"
+		},
+		{
+			"title": "基于视觉的焊接缺陷熔池图像特征探讨",
+			"name": [
+				{
+					"name": "沈莹吉",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王克鸿",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "潘明财",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "陈菲",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201027&dbname=CJFD2012",
+			"start": "105",
+			"end": "108"
+		},
+		{
+			"title": "考虑IMC影响的PBGA无铅焊点温度循环有限元数值模拟",
+			"name": [
+				{
+					"name": "魏鹤琳",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王奎升",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2012",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201028&dbname=CJFD2012",
+			"start": "109",
+			"end": "112"
+		},
+		{
+			"title": "加氢反应器不锈钢堆焊熔合区氢剥离行为的分析",
+			"name": [
+				{
+					"name": "杜兵",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "贾玉力",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "饶清鹏",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301000&dbname=CJFD2013",
+			"start": "1",
+			"end": "3"
+		},
+		{
+			"title": "铝合金薄板焊件纵向塑性应变场的数值模拟",
+			"name": [
+				{
+					"name": "李军",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张文锋",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "郑岩松",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "娄豪月",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301001&dbname=CJFD2013",
+			"start": "4",
+			"end": "8"
+		},
+		{
+			"title": "Monel合金表面激光熔覆镍基合金的组织及摩擦磨损性能",
+			"name": [
+				{
+					"name": "张松",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "周磊",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "郝玉喜",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张春华",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王东生",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王茂才",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301002&dbname=CJFD2013",
+			"start": "9",
+			"end": "12"
+		},
+		{
+			"title": "Mo-Cu合金与1Cr18Ni9Ti不锈钢真空钎焊接头的组织性能",
+			"name": [
+				{
+					"name": "王娟",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "郑德双",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李亚江",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301003&dbname=CJFD2013",
+			"start": "13",
+			"end": "16"
+		},
+		{
+			"title": "激光-MAG复合焊熔质分布与熔池流动特征",
+			"name": [
+				{
+					"name": "刘双宇",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "宗士帅",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘凤德",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张宏",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301004&dbname=CJFD2013",
+			"start": "17",
+			"end": "20"
+		},
+		{
+			"title": "HPVP-GTAW电弧力及焊接质量分析",
+			"name": [
+				{
+					"name": "从保强",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "齐铂金",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "杨明轩",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李伟",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王乐笑",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301005&dbname=CJFD2013",
+			"start": "21",
+			"end": "24"
+		},
+		{
+			"title": "无铅焊点金属间化合物的纳米压痕力学性能",
+			"name": [
+				{
+					"name": "秦飞",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "安彤",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "仲伟旭",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘程艳",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301006&dbname=CJFD2013",
+			"start": "25",
+			"end": "28"
+		},
+		{
+			"title": "微弧氧化处理改善7N01-T5铝合金搅拌摩擦焊接头的耐蚀性能",
+			"name": [
+				{
+					"name": "刘万辉",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘文彬",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "鲍爱莲",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301007&dbname=CJFD2013",
+			"start": "29",
+			"end": "32"
+		},
+		{
+			"title": "超声时间和预留间隙对超声波辅助钎焊镁合金钎料填缝性能的影响",
+			"name": [
+				{
+					"name": "李红",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "耿园月",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "闫久春",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "栗卓新",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301008&dbname=CJFD2013",
+			"start": "33",
+			"end": "36"
+		},
+		{
+			"title": "预氧化处理对热障涂层热冲击性能及残余应力的影响",
+			"name": [
+				{
+					"name": "李亚娟",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "董允",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王志平",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "柳士强",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301009&dbname=CJFD2013",
+			"start": "37",
+			"end": "40"
+		},
+		{
+			"title": "基于球面拟合法的机器人与变位机位姿关系标定",
+			"name": [
+				{
+					"name": "朱晓鹏",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张轲",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "涂志强",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "黄洁",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301010&dbname=CJFD2013",
+			"start": "41",
+			"end": "44"
+		},
+		{
+			"title": "不同参数下MIG焊电弧光谱波动特点",
+			"name": [
+				{
+					"name": "李志勇",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张文朝",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李岩",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "丁京滨",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301011&dbname=CJFD2013",
+			"start": "45",
+			"end": "48"
+		},
+		{
+			"title": "钛/铜中间层/钢扩散焊复合管界面组织与性能",
+			"name": [
+				{
+					"name": "刘德义",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "蔡建伟",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "任瑞铭",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301012&dbname=CJFD2013",
+			"start": "49",
+			"end": "52"
+		},
+		{
+			"title": "锌对SnxZn/Cu界面微空洞的影响",
+			"name": [
+				{
+					"name": "杨扬",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "陆皓",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "余春",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "陈俊梅",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "陈振英",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301013&dbname=CJFD2013",
+			"start": "53",
+			"end": "56"
+		},
+		{
+			"title": "基于有限元法的平滑凹痕管道应力分析",
+			"name": [
+				{
+					"name": "伍颖",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张鹏",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "谢彦平",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301014&dbname=CJFD2013",
+			"start": "57",
+			"end": "60"
+		},
+		{
+			"title": "粗丝高速MAG焊驼峰焊道形成机理分析",
+			"name": [
+				{
+					"name": "杨战利",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张善保",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "杨永波",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "唐麒龙",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301015&dbname=CJFD2013",
+			"start": "61",
+			"end": "64"
+		},
+		{
+			"title": "基于坡口特征的相贯接头焊接机器人连续轨迹规划",
+			"name": [
+				{
+					"name": "王天琪",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李亮玉",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "岳建锋",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301016&dbname=CJFD2013",
+			"start": "65",
+			"end": "68"
+		},
+		{
+			"title": "人机交互式机器人弧焊再制造系统设计",
+			"name": [
+				{
+					"name": "殷子强",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张广军",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "赵慧慧",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "袁新",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "吴林",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301017&dbname=CJFD2013",
+			"start": "69",
+			"end": "72"
+		},
+		{
+			"title": "低匹配对接接头形状参数对三点弯曲应力集中系数的影响",
+			"name": [
+				{
+					"name": "王佳杰",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "董志波",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张敬强",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘雪松",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "方洪渊",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301018&dbname=CJFD2013",
+			"start": "73",
+			"end": "76"
+		},
+		{
+			"title": "硫对银钎料及钎焊性能的影响",
+			"name": [
+				{
+					"name": "张冠星",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "龙伟民",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "鲍丽",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "隋方飞",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301019&dbname=CJFD2013",
+			"start": "77",
+			"end": "80"
+		},
+		{
+			"title": "激光微纳烧结处理对玻璃陶瓷涂层组织及腐蚀性能的影响",
+			"name": [
+				{
+					"name": "陈平虎",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "邱长军",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "陈勇",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "龙冲生",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301020&dbname=CJFD2013",
+			"start": "81",
+			"end": "84"
+		},
+		{
+			"title": "合金元素对铁基激光熔覆涂层显微组织和相结构形态的影响",
+			"name": [
+				{
+					"name": "聂斌英",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "姚成武",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301021&dbname=CJFD2013",
+			"start": "85",
+			"end": "88"
+		},
+		{
+			"title": "400MPa球墨铸铁光纤激光-MIG电弧复合焊接头的断裂特征",
+			"name": [
+				{
+					"name": "郑世卿",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "刘柱",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "单际国",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "温鹏",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301022&dbname=CJFD2013",
+			"start": "89",
+			"end": "92"
+		},
+		{
+			"title": "不同颗粒致密度WC-10Co-4Cr涂层的耐腐蚀性能",
+			"name": [
+				{
+					"name": "丁坤英",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "程涛涛",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王志平",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301023&dbname=CJFD2013",
+			"start": "93",
+			"end": "96"
+		},
+		{
+			"title": "三维模型重建中点云ICP拼接算法的改进",
+			"name": [
+				{
+					"name": "涂志强",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "张轲",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "杨成龙",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "朱晓鹏",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "黄洁",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301024&dbname=CJFD2013",
+			"start": "97",
+			"end": "100"
+		},
+		{
+			"title": "铜铝套管挤压电阻焊接原理及微观结构分析",
+			"name": [
+				{
+					"name": "赵越",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "左铁军",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "凌勇",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "左轲",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "王昕",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301025&dbname=CJFD2013",
+			"start": "101",
+			"end": "104"
+		},
+		{
+			"title": "光束偏移量对钛/铝异种合金激光焊接接头组织和性能的影响",
+			"name": [
+				{
+					"name": "宋志华",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "吴爱萍",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "姚为",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "邹贵生",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "任家烈",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "汪永阳",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301026&dbname=CJFD2013",
+			"start": "105",
+			"end": "108"
+		},
+		{
+			"title": "退火及热轧对碳钢-不锈钢爆炸焊接复合板性能的影响",
+			"name": [
+				{
+					"name": "廖东波",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "查五生",
+					"field": "",
+					"code": ""
+				},
+				{
+					"name": "李伟",
+					"field": "",
+					"code": ""
+				}
+			],
+			"year": "2013",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201301027&dbname=CJFD2013",
+			"start": "109",
+			"end": "112"
+		}
+	]
+}

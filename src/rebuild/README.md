@@ -25,3 +25,8 @@ nrm use taobao
 
 在 package.json 中，有scripts对象，里面的语句对应了不同的爬虫操作。
 
+### HJXB
+
+使用`npm run HJXB` 爬取焊接学报的内容， 打开package.json可以看到对应的命令，最后的参数2013就是爬取2013年的数据了。
+
+结束之后在命令行界面Ctrl+c即可退出。

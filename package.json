@@ -10,7 +10,10 @@
 		"abstract": "node ./src/getAbs.js",
 		"execl": "node ./src/toExcel.js",
 		"pdf": "node ./src/pdfParser.js",
-		"patents": "node ./src/patents/index.js"
+		"patents": "node ./src/patents/index.js",
+		"HJXB":"node ./src/rebuild/scripts/crawler/HJXB.js 2012",
+		"HJXB:analysis":"node ./src/rebuild/scripts/analysis/HJXB.js",
+		"HJXB:getAbs":"node ./src/rebuild/scripts/getAbs/HJXB.js"
 	},
 	"author": "xujx",
 	"license": "ISC",
