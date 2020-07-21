@@ -8,7 +8,7 @@ puppeteer
 	})
 	.then(async (browser) => {
 		let len = data.data.length;
-		for (let i = 0; i < len; i++) {
+		for (let i = 807; i < len; i++) {
 			let author = data.data[i].author;
 			if (!author) {
 				console.log('undefined author');
@@ -38,7 +38,9 @@ async function getSchool(link, browser) {
     school = await page.evaluate((schoolDom)=>{
       return schoolDom.innerText;
     },schoolDom)
-  }
+	}
+	await page.waitFor(1000);
+  await page.close();
   return school;
 }
 
