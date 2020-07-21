@@ -12,19 +12,23 @@ puppeteer
 		headless: true,
 	})
 	.then(async (browser) => {
-		for (let i = 0; i < 2; i++) {
-      const res = await getAbstract(data.data[i].link, browser);
-      console.log(`${i}: ${res.keywords.slice(0,5)}-${res.abstract.slice(0,5)}`);
+		// 417
+		for (let i = 178; i < len; i++) {
+			const res = await getAbstract(data.data[i].link, browser);
+			console.log(`${i}: ${res.keywords.slice(0, 5)}-${res.abstract.slice(0, 5)}`);
 			data.data[i].abstract = res.abstract;
 			data.data[i].keywords = res.keywords;
+			data.data[i].author = res.authorInfo;
+			await save(data);
 		}
 	})
 	.then(() => {
 		console.log('获取信息完成！');
-    save(data);
-    console.log('保存成功！')
+		save(data);
+		console.log('保存成功！');
 	});
 
+// 获取摘要、关键词和对应作者的领域与code
 async function getAbstract(link, browser) {
 	const page = await browser.newPage();
 	await page.goto(link);
@@ -51,11 +55,40 @@ async function getAbstract(link, browser) {
 			return res;
 		}, keysDOM);
 	}
+	// field & code for each author
+	let authorDom = await page.$('.author');
+	let authorInfo = [];
+	if (authorDom) {
+		authorInfo = await page.evaluate((authorDom) => {
+			let input = [];
+			let arr = authorDom.children;
+			if (arr.length != 0) {
+				for (let i = 0; i < arr.length; i++) {
+					let name = arr[i].text;
+					const reg = /'(\S+)','([\S\s]+)','(\d+)'/g;
+					let str = reg.exec(arr[i].innerHTML);
+          let field = '';
+          let code = '';
+          if (str !== null) {
+						field = str[1];
+					  code = str[3];
+					}
+					input.push({
+						name: name,
+						field: field,
+						code: code,
+					});
+				}
+			}
+			return input;
+		}, authorDom);
+	}
 	await page.waitFor(3000);
 	await page.close();
 	return {
 		abstract: abstract,
 		keywords: keys,
+		authorInfo: authorInfo,
 	};
 }
 

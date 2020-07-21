@@ -11,9 +11,11 @@
 		"execl": "node ./src/toExcel.js",
 		"pdf": "node ./src/pdfParser.js",
 		"patents": "node ./src/patents/index.js",
-		"HJXB":"node ./src/rebuild/scripts/crawler/HJXB.js 2012",
+		"HJXB":"node ./src/rebuild/scripts/crawler/HJXB.js 2013",
 		"HJXB:analysis":"node ./src/rebuild/scripts/analysis/HJXB.js",
-		"HJXB:getAbs":"node ./src/rebuild/scripts/getAbs/HJXB.js"
+    "HJXB:getAbs":"node ./src/rebuild/scripts/getAbs/HJXB.js",
+    "HJXB:school":"node ./src/rebuild/scripts/school/HJXB.js",
+    "HJXB:excel":"node ./src/rebuild/scripts/excel/HJXB.js"
 	},
 	"author": "xujx",
 	"license": "ISC",

@@ -43,7 +43,7 @@ function getNoDotID(year, num) {
   await page.waitFor(TIME);
   let accNum = 1;
   let output = [];
-  while (accNum < 2) {
+  while (accNum < 13) {
     let NoDot = await page.$(getNoDotID(yearNum, accNum));
     NoDot.click();
     // const SomePaperList = await page.$('#CataLogContent');
@@ -78,7 +78,7 @@ function getNoDotID(year, num) {
     output.push(res);
     accNum++;
   }
-  console.log(output);
+  console.log(output.length);
   // 直接复制 粘贴到src目录下
   let jsonObj = {};
   jsonObj.data = output;
@@ -89,4 +89,5 @@ function getNoDotID(year, num) {
       console.error("save error");
     }
   );
+  console.log('保存成功！')
 })();

@@ -33,4 +33,6 @@ nrm use taobao
 
 `npm run HJXB:analysis`对之前爬取的信息进行分析,`npm run HJXB:getAbs` 获取对应文章的摘要和作者知网节信息；
 
+`npm run HJXB:school` 获取作者的单位
+
 最后调用`npm run HJXB:out` 将所得的数据导出成excel。
