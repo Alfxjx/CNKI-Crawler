@@ -4,7 +4,9 @@
 			"title": "关于变更《焊接学报》采编平台网址的公告",
 			"year": "2012",
 			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201026&dbname=CJFD2012",
-			"start": "104"
+			"start": "104",
+			"abstract": "<正>根据焊接学报编辑部工作的需要,原采编平台网址:www.hjxb.cb.cnki.net现已停用,现已采用新的采编平台网址:magazines.hwi.com.cn.请论文作者按新的采编平台网址登录投稿和稿件查询.论文作者投稿 ",
+			"keywords": ""
 		},
 		{
 			"title": "电子束焊机电源控制系统的设计与实现",
@@ -33,7 +35,9 @@
 			"year": "2012",
 			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201201000&dbname=CJFD2012",
 			"start": "1",
-			"end": "5"
+			"end": "5",
+			"abstract": "电子束焊机高压加速稳压电源输出电压的稳定是保证电子束焊接质量的前提条件,传统的高压加速稳压电源电路结构复杂、体积大.为此设计了一种电子束焊机高压加速稳压电源控制系统,主电路采用PWM buck-boost变换器结构,其较高的升压比降低了升压变压器的升压比,与传统的同类电源相比,体积更小,电路更为简单;分析了系统主电路特性和工作过程,建立了系统电路小信号模型,采用了滞后-超前校正补偿的控制方式.结果表明,系统具有响应速度快、可靠性和控制精度高、抗干扰能力强等特点. ",
+			"keywords": "电子束焊机;升降压变换器;仿真;"
 		},
 		{
 			"title": "超声对不同铝合金搅拌摩擦焊接头性能的影响",

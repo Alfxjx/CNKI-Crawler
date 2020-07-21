@@ -30,3 +30,7 @@ nrm use taobao
 使用`npm run HJXB` 爬取焊接学报的内容， 打开package.json可以看到对应的命令，最后的参数2013就是爬取2013年的数据了。
 
 结束之后在命令行界面Ctrl+c即可退出。
+
+`npm run HJXB:analysis`对之前爬取的信息进行分析,`npm run HJXB:getAbs` 获取对应文章的摘要和作者知网节信息；
+
+最后调用`npm run HJXB:out` 将所得的数据导出成excel。
