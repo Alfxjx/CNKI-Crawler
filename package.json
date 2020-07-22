@@ -5,18 +5,16 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node index.js",
-		"analysis": "node ./src/analysis.js",
-		"abstract": "node ./src/getAbs.js",
-		"execl": "node ./src/toExcel.js",
-		"pdf": "node ./src/pdfParser.js",
-		"patents": "node ./src/patents/index.js",
 		"HJXB":"node ./src/rebuild/scripts/crawler/HJXB.js 2013",
 		"HJXB:analysis":"node ./src/rebuild/scripts/analysis/HJXB.js",
     "HJXB:getAbs":"node ./src/rebuild/scripts/getAbs/HJXB.js",
     "HJXB:school":"node ./src/rebuild/scripts/school/HJXB.js",
     "HJXB:excel":"node ./src/rebuild/scripts/excel/HJXB.js",
-    "crawler":"node ./src/rebuild/scripts/crawler/index.js HSJJ 2013"
+    "crawler":"node ./src/rebuild/scripts/crawler/index.js HJXB 2019",
+    "analysis":"node ./src/rebuild/scripts/analysis/index.js HAJA",
+    "abstract":"node ./src/rebuild/scripts/getAbs/index.js HAJA",
+    "school":"node ./src/rebuild/scripts/school/index.js HAJA",
+    "excel":"node ./src/rebuild/scripts/excel/index.js HAJA"
 	},
 	"author": "xujx",
 	"license": "ISC",

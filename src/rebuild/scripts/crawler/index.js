@@ -19,7 +19,7 @@ function getNoDotID(year, num) {
 
 (async () => {
   const browser = await puppeteer.launch({
-    // headless: false, // false浏览器界面启动
+    headless: true, // false浏览器界面启动
     slowMo: 100, // 放慢浏览器执行速度，方便测试观察
     args: [
       // 启动 Chrome 的参数
@@ -83,7 +83,7 @@ function getNoDotID(year, num) {
   let jsonObj = {};
   jsonObj.data = output;
   fs.writeFileSync(
-    `src/rebuild/data/crawler/output${yearNum}.json`,
+    `src/rebuild/data/crawler/output-${journal}-${yearNum}.json`,
     JSON.stringify(jsonObj, "", "\t"),
     (err) => {
       console.error("save error");

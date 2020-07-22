@@ -4,7 +4,7 @@
 
 ## 环境安装
 
-本爬虫需要的环境包括 [git](https://git-scm.com/downloads),[Node.js](https://nodejs.org/en/), 点击直接下载。直接安装即可。
+本爬虫需要的环境包括 [git](https://npm.taobao.org/mirrors/git-for-windows/v2.27.0.windows.1/),[Node.js](https://nodejs.org/en/), 点击直接下载。直接安装即可。
 推荐在[VS code](https://code.visualstudio.com/)中对本项目进行编辑。
 
 在vs code中，按ctrl+\`, 打开命令行，选择`terminal`, 在命令行中输入 npm i, 安装依赖项。
