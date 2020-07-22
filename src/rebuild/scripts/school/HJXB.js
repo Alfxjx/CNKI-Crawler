@@ -8,7 +8,7 @@ puppeteer
 	})
 	.then(async (browser) => {
 		let len = data.data.length;
-		for (let i = 807; i < len; i++) {
+		for (let i = 1070; i < len; i++) {
 			let author = data.data[i].author;
 			if (!author) {
 				console.log('undefined author');

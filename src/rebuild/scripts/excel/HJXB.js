@@ -5,7 +5,7 @@ const data = require('../../data/analysis/HJXB.json');
 let input = [];
 let obj = [];
 for(let i=0;i<data.data.length;i++){
-  if(data.data[i].author.length!==0){
+  if(data.data[i].author && data.data[i].author.length!==0){
     obj.push(data.data[i]);
   }
 }
