@@ -11,9 +11,9 @@
     "HJXB:school":"node ./src/rebuild/scripts/school/HJXB.js",
     "HJXB:excel":"node ./src/rebuild/scripts/excel/HJXB.js",
     "crawler":"node ./src/rebuild/scripts/crawler/index.js HJXB 2019",
-    "analysis":"node ./src/rebuild/scripts/analysis/index.js HAJA",
-    "abstract":"node ./src/rebuild/scripts/getAbs/index.js HAJA",
-    "school":"node ./src/rebuild/scripts/school/index.js HAJA",
+    "analysis":"node ./src/rebuild/scripts/analysis/index.js HSJJ",
+    "abstract":"node ./src/rebuild/scripts/getAbs/index.js HSJJ",
+    "school":"node ./src/rebuild/scripts/school/index.js HSJJ",
     "excel":"node ./src/rebuild/scripts/excel/index.js HAJA"
 	},
 	"author": "xujx",

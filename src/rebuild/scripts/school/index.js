@@ -8,8 +8,9 @@ puppeteer
 		headless: true,
 	})
 	.then(async (browser) => {
-		let len = data.data.length;
-		for (let i = 1070; i < len; i++) {
+    let len = data.data.length;
+    // TODO CHECK from 0 HSJJ 到601
+		for (let i = 601; i < len; i++) {
 			let author = data.data[i].author;
 			if (!author) {
 				console.log('undefined author');
