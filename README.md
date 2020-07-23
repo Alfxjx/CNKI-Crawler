@@ -27,17 +27,26 @@ nrm use taobao
 
 在 package.json 中，有scripts对象，里面的语句对应了不同的爬虫操作。
 
-### HJXB
+1. `npm run crawler`
+2. `npm run analysis`
+3. `npm run abstract`
+4. `npm run school`
+5. `npm run excel`
 
-使用`npm run HJXB` 爬取焊接学报的内容， 打开package.json可以看到对应的命令，最后的参数2013就是爬取2013年的数据了。
+使用时直接在后面添加参数 第一个参数是期刊缩写（见下面），第二个参数是可选参数，不写就直接是2010-2013年的，如果写参数就是对应的某一年。
 
-结束之后在命令行界面Ctrl+c即可退出。
+### examples
 
-`npm run HJXB:analysis`对之前爬取的信息进行分析,`npm run HJXB:getAbs` 获取对应文章的摘要和作者知网节信息；
+1. `npm run crawler HJXB` 表示爬取2010-2013 的焊接学报
+2. `npm run abstarct HJXB 2019` 表示获取2019年的焊接学报的摘要等信息
 
-`npm run HJXB:school` 获取作者的单位
+### 缩写
 
-最后调用`npm run HJXB:out` 将所得的数据导出成excel。
+HJXB 焊接学报
+HAJA 焊接
+HSJJ 焊接技术
+DHJI 电焊机
+HGZZ 焊管
 
 ## Q&A
 

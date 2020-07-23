@@ -1,5 +1,13 @@
 const journal = process.argv.slice(2)[0];
-const data = require(`../../data/analysis/${journal}.json`);
+const data0 = require(`../../data/analysis/${journal}.json`);
+let data = {};
+if(process.argv.slice(2).length!==1){
+  let year = process.argv.slice(2)[1];
+  const data1 = require(`../../data/analysis/${journal}-${year}.json`);
+  data = data1;
+} else {
+  data = data0;
+}
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
@@ -79,7 +87,8 @@ async function getAbstract(link, browser) {
 			let arr = authorDom.children;
 			if (arr.length != 0) {
 				for (let i = 0; i < arr.length; i++) {
-					let name = arr[i].text;
+          // 删掉邮箱
+					let name = arr[i].children[0].text;
 					const reg = /'(\S+)','([\S\s]+)','(\d+)'/g;
 					let str = reg.exec(arr[i].innerHTML);
 					let field = '';
@@ -110,7 +119,14 @@ async function getAbstract(link, browser) {
 
 function save(data) {
 	let data1 = JSON.stringify(data, '', '\t');
-	fs.writeFileSync(`src/rebuild/data/analysis/${journal}.json`, data1, (err) => {
-		console.log('error: ' + err);
-	});
+	if(process.argv.slice(2).length!==1){
+    let year = process.argv.slice(2)[1];
+    fs.writeFileSync(`src/rebuild/data/analysis/${journal}-${year}.json`, data1, (err) => {
+      console.log('error: ' + err);
+    });
+  } else {
+    fs.writeFileSync(`src/rebuild/data/analysis/${journal}.json`, data1, (err) => {
+      console.log('error: ' + err);
+    });
+  }
 }

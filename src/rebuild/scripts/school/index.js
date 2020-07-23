@@ -1,5 +1,13 @@
+let data = {};
 const journal = process.argv.slice(2)[0];
-const data = require(`../../data/analysis/${journal}.json`);
+const data0 = require(`../../data/analysis/${journal}.json`);
+if(process.argv.slice(2).length!==1){
+  let year = process.argv.slice(2)[1];
+  const data1 = require(`../../data/analysis/${journal}-${year}.json`);
+  data = data1;
+} else {
+  data = data0;
+}
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
@@ -9,8 +17,8 @@ puppeteer
 	})
 	.then(async (browser) => {
     let len = data.data.length;
-    // TODO CHECK from 0 HSJJ 到601
-		for (let i = 601; i < len; i++) {
+    // TODO CHECK from 0 HSJJ 到601了 下次跑school-HSJJ的时候
+		for (let i = 0; i < len; i++) {
 			let author = data.data[i].author;
 			if (!author) {
 				console.log('undefined author');
@@ -48,8 +56,15 @@ async function getSchool(link, browser) {
 
 function save(data) {
 	let data1 = JSON.stringify(data, '', '\t');
-	fs.writeFileSync(`src/rebuild/data/analysis/${journal}.json`, data1, (err) => {
-		console.log('error: ' + err);
-	});
+  if(process.argv.slice(2).length!==1){
+    let year = process.argv.slice(2)[1];
+    fs.writeFileSync(`src/rebuild/data/analysis/${journal}-${year}.json`, data1, (err) => {
+      console.log('error: ' + err);
+    });
+  } else {
+    fs.writeFileSync(`src/rebuild/data/analysis/${journal}.json`, data1, (err) => {
+      console.log('error: ' + err);
+    });
+  }
 	console.log('saved');
 }

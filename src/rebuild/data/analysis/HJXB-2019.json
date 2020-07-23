@@ -1,0 +1,2462 @@
+{
+	"data": [
+		{
+			"title": "变极性TIG焊电弧燃烧稳定性与恒占空比控制",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901001&dbname=CJFD2019",
+			"start": "1",
+			"end": "4",
+			"abstract": "电流换向的快速性和稳定性是影响变极性TIG焊接电弧燃烧稳定性的关键因素,尤其是在小电流变极性TIG焊时,极易出现熄弧和电弧燃烧不稳定问题.对电流换向期间的电压/电流波形深入分析发现,一次逆变采用基于PID的电流反馈控制获得恒流输出时,在电流换向结束后易产生焊接电流回调现象,小电流焊接时甚至降至零,从而导致电弧熄灭,这与PID控制中的di/dt项密切相关.提出了一次逆变在电流换向期间采用恒占空比控制新方法.结果表明,该方法可有效提高换向电流的响应速度,防止换向后的电流回调或超调,增强了变极性电流换向过程的稳定性. ",
+			"keywords": "变极性焊接;电流换向过程;恒占空比;电流回调;",
+			"author": [
+				{
+					"name": "刘博",
+					"field": "au",
+					"code": "08822405",
+					"school": "清华大学"
+				},
+				{
+					"name": "朱志明",
+					"field": "au",
+					"code": "08836305",
+					"school": "清华大学"
+				},
+				{
+					"name": "杨中宇",
+					"field": "au",
+					"code": "31421343",
+					"school": "清华大学"
+				},
+				{
+					"name": "符平坡",
+					"field": "au",
+					"code": "34399638",
+					"school": "清华大学"
+				}
+			],
+			"school": "清华大学机械工程系,清华大学先进成形制造教育部重点实验室"
+		},
+		{
+			"title": "Ag-Cu+WC复合钎料钎焊ZrO2陶瓷和TC4合金",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901002&dbname=CJFD2019",
+			"start": "5",
+			"end": "9",
+			"abstract": "采用新型Ag-Cu+WC复合钎料进行ZrO2陶瓷和TC4合金钎焊连接,探究了接头界面组织及形成机制,分析了钎焊温度对接头界面结构和力学性能的影响.结果表明,接头界面典型结构为ZrO2/TiO+Cu3Ti3O/TiCu+TiC+W+Ag（s,s）+Cu（s,s）/TiCu2/TiCu/Ti2Cu/TC4.钎焊过程中,WC颗粒与Ti发生反应,原位生成TiC和W增强相,为TiCu金属间化合物、Ag基和Cu基固溶体提供了形核质点,同时抑制了脆性Ti-Cu金属间化合物的生长,优化了接头的微观组织和力学性能.随钎焊温度的升高,接头反应层的厚度逐渐增加,WC颗粒与Ti的反应程度增强.当钎焊温度890℃、保温10 min时,复合钎料所得接头抗剪强度达到最高值82.1 MPa,对比Ag-Cu钎料所得接头抗剪强度提高了57.3%. ",
+			"keywords": "ZrO2陶瓷;WC颗粒;复合钎料;界面组织;",
+			"author": [
+				{
+					"name": "王子晨",
+					"field": "au",
+					"code": "38387130",
+					"school": "哈尔滨工业大学"
+				},
+				{
+					"name": "曹健",
+					"field": "au",
+					"code": "06990428",
+					"school": "哈尔滨工业大学"
+				},
+				{
+					"name": "代翔宇",
+					"field": "au",
+					"code": "32141448",
+					"school": "哈尔滨工业大学"
+				},
+				{
+					"name": "冯吉才",
+					"field": "au",
+					"code": "00002411",
+					"school": "哈尔滨工业大学"
+				}
+			],
+			"school": "哈尔滨工业大学先进焊接与连接国家重点实验室"
+		},
+		{
+			"title": "钛合金激光立焊烧穿和气孔缺陷及其数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901003&dbname=CJFD2019",
+			"start": "10",
+			"end": "14",
+			"abstract": "采用在平焊优化过的激光焊接参数对钛合金进行立焊,立向上焊时烧穿倾向较大,气孔倾向较小;立向下焊时烧穿倾向较小,气孔倾向较大.基于体积分数法(VOF)建立了追踪小孔界面的数值计算模型模拟小孔和熔池流动行为,分析了焊接位置对激光立焊烧穿和气孔倾向的影响机制.结果表明,立向上焊时焊接方向与重力相反,小孔所受静水压力较小,小孔易于长大,小孔空腔所需的液态金属得不到有效补充,烧穿倾向增加.立向下焊时焊接方向与重力一致,小孔振荡导致崩塌卷气,所生成的气泡缺乏逸出通道,气孔倾向增加. ",
+			"keywords": "激光焊接;钛合金;焊接位置;烧穿;数值模拟;",
+			"author": [
+				{
+					"name": "Doruk Yelkenci",
+					"field": "au",
+					"code": "41122206",
+					"school": "清华大学"
+				},
+				{
+					"name": "陈俊宏",
+					"field": "au",
+					"code": "41122207",
+					"school": "清华大学"
+				},
+				{
+					"name": "温鹏",
+					"field": "au",
+					"code": "08239121",
+					"school": "清华大学"
+				},
+				{
+					"name": "常保华",
+					"field": "au",
+					"code": "08168488",
+					"school": "清华大学"
+				},
+				{
+					"name": "单际国",
+					"field": "au",
+					"code": "08225875",
+					"school": "清华大学"
+				}
+			],
+			"school": "清华大学机械工程系,清华大学先进成形制造教育部重点实验室"
+		},
+		{
+			"title": "304不锈钢薄板列置双TIG高速焊缝组织与性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901004&dbname=CJFD2019",
+			"start": "15",
+			"end": "18",
+			"abstract": "相比常规速度不锈钢焊接,高速焊接过程中焊缝金属的凝固过程及组织形态将会发生变化,从而影响焊缝组织和性能.对1.2 mm厚304不锈钢薄板对接,采用列置双TIG焊在焊接速度为3.0 m/min时获得了良好焊缝成形,并与常规速度单TIG焊接工艺相比,采用非标准拉伸试样测试了焊缝性能,并分析了其组织.结果表明,高速双TIG焊接焊缝中心生成等轴晶,两侧树枝晶未形成对向生长的定向晶粒,焊缝抗拉强度及断后伸长率略低于母材;相比常规单TIG焊接工艺,高速双TIG焊接热影响区晶粒平均直径降低了10.3%,但焊缝中心晶粒平均直径增大了12.9%;焊缝抗拉强度和断后伸长率分别提高了4.3%和23.2%,焊缝中心硬度值略高于母材. ",
+			"keywords": "高速焊接;列置双TIG;不锈钢薄板;焊缝组织;焊缝性能;",
+			"author": [
+				{
+					"name": "江海红",
+					"field": "au",
+					"code": "37980278",
+					"school": "山东大学"
+				},
+				{
+					"name": "秦国梁",
+					"field": "au",
+					"code": "22286969",
+					"school": "山东大学"
+				},
+				{
+					"name": "冯超",
+					"field": "au",
+					"code": "17390981",
+					"school": "山东大学"
+				},
+				{
+					"name": "陈永",
+					"field": "au",
+					"code": "08840565",
+					"school": "山东大学"
+				},
+				{
+					"name": "王世路",
+					"field": "au",
+					"code": "40906815",
+					"school": "山东大学"
+				}
+			],
+			"school": "山东大学材料液固结构演变与加工教育部重点实验室,山东大学现代焊接技术研究所"
+		},
+		{
+			"title": "电弧光谱深度挖掘下的铝合金焊接过程状态检测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901005&dbname=CJFD2019",
+			"start": "19",
+			"end": "25"
+		},
+		{
+			"title": "轴向压力对异种钢水下摩擦锥塞焊接头组织及力学性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901006&dbname=CJFD2019",
+			"start": "26",
+			"end": "31"
+		},
+		{
+			"title": "中碳Fe-Cr-C堆焊合金成分设计与热处理工艺优化",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901007&dbname=CJFD2019",
+			"start": "32",
+			"end": "36"
+		},
+		{
+			"title": "基于同轴图像传感的激光焊接过程质量监测技术",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901008&dbname=CJFD2019",
+			"start": "37",
+			"end": "42"
+		},
+		{
+			"title": "基于混合硬化模型的Ti-6Al-4V低周疲劳损伤分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901009&dbname=CJFD2019",
+			"start": "43",
+			"end": "48"
+		},
+		{
+			"title": "基于ACT匹配的GMA增材制造熔池形貌三维重建",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901010&dbname=CJFD2019",
+			"start": "49",
+			"end": "52"
+		},
+		{
+			"title": "1060Al高频微振激光焊接接头气孔及组织",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901011&dbname=CJFD2019",
+			"start": "53",
+			"end": "58"
+		},
+		{
+			"title": "时效处理对WC/Cu-Ni-Mn堆焊层耐磨损性能影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901012&dbname=CJFD2019",
+			"start": "59",
+			"end": "64"
+		},
+		{
+			"title": "304不锈钢/Q235钢的多层爆炸焊接",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901013&dbname=CJFD2019",
+			"start": "65",
+			"end": "70"
+		},
+		{
+			"title": "薄板对接超声疲劳试样设计方法及其误差分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901014&dbname=CJFD2019",
+			"start": "71",
+			"end": "74"
+		},
+		{
+			"title": "TA2/Q235复合板用Ni基过渡层熔焊接头组织和性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901015&dbname=CJFD2019",
+			"start": "75",
+			"end": "79"
+		},
+		{
+			"title": "钎焊时间对K9玻璃/B2O3-Bi2O3-TiO2/纯钛钎焊接头组织和性能影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901016&dbname=CJFD2019",
+			"start": "80",
+			"end": "83"
+		},
+		{
+			"title": "搅拌摩擦焊接材料流动模型及在缺陷预测中的应用",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901017&dbname=CJFD2019",
+			"start": "84",
+			"end": "88"
+		},
+		{
+			"title": "湿度对铝合金接头裂纹敏感性的影响规律及机理",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901018&dbname=CJFD2019",
+			"start": "89",
+			"end": "93"
+		},
+		{
+			"title": "镀锌板CMT焊焊缝气孔影响因素及产生机理",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901019&dbname=CJFD2019",
+			"start": "94",
+			"end": "98"
+		},
+		{
+			"title": "高强钢旁路热丝等离子弧打底焊接头组织和性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901020&dbname=CJFD2019",
+			"start": "99",
+			"end": "103"
+		},
+		{
+			"title": "焊丝含氮量及焊接电流对高氮钢焊缝组织和性能影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901021&dbname=CJFD2019",
+			"start": "104",
+			"end": "108"
+		},
+		{
+			"title": "考虑温变效应的搅拌工具磨损有限元分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901022&dbname=CJFD2019",
+			"start": "109",
+			"end": "112"
+		},
+		{
+			"title": "快速冷却对DP1000双相钢激光焊接接头性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901023&dbname=CJFD2019",
+			"start": "113",
+			"end": "118"
+		},
+		{
+			"title": "TRIP980高强钢电阻点焊接头的组织及力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901024&dbname=CJFD2019",
+			"start": "119",
+			"end": "123"
+		},
+		{
+			"title": "焊接接头热影响区裂纹启裂行为的探讨",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901025&dbname=CJFD2019",
+			"start": "124",
+			"end": "130"
+		},
+		{
+			"title": "基于电化学方法5Cr钢熔化焊接头CO2腐蚀行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901026&dbname=CJFD2019",
+			"start": "131",
+			"end": "136"
+		},
+		{
+			"title": "轴肩作用下的金属流动过程分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901027&dbname=CJFD2019",
+			"start": "137",
+			"end": "140"
+		},
+		{
+			"title": "Cu基药芯焊丝TIG焊TA1/Q235B接头微观组织和显微硬度",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901028&dbname=CJFD2019",
+			"start": "141",
+			"end": "146"
+		},
+		{
+			"title": "压痕应变法应力计算常数的数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901029&dbname=CJFD2019",
+			"start": "147",
+			"end": "150"
+		},
+		{
+			"title": "表面纳米化对镍基高温合金焊接液化裂纹的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901030&dbname=CJFD2019",
+			"start": "151",
+			"end": "155"
+		},
+		{
+			"title": "304H焊接接头蠕变疲劳寿命预测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201901031&dbname=CJFD2019",
+			"start": "156",
+			"end": "160"
+		},
+		{
+			"title": "焊接与连接领域科学基金资助浅析与发展趋势",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902001&dbname=CJFD2019",
+			"start": "1",
+			"end": "7"
+		},
+		{
+			"title": "P92钢高温断裂韧性的试验",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902002&dbname=CJFD2019",
+			"start": "8",
+			"end": "12"
+		},
+		{
+			"title": "表面张力对激光深熔焊熔池流动的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902003&dbname=CJFD2019",
+			"start": "13",
+			"end": "19"
+		},
+		{
+			"title": "铝/钢微束等离子熔钎焊接头组织及力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902004&dbname=CJFD2019",
+			"start": "20",
+			"end": "25"
+		},
+		{
+			"title": "基于实际熔敷形状的旋转电弧传感器数学模型",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902005&dbname=CJFD2019",
+			"start": "26",
+			"end": "30"
+		},
+		{
+			"title": "转向架用SMA490BW钢焊接接头超高周疲劳性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902006&dbname=CJFD2019",
+			"start": "31",
+			"end": "37"
+		},
+		{
+			"title": "异质双丝电弧喷涂制备复合涂层的工艺优化",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902007&dbname=CJFD2019",
+			"start": "38",
+			"end": "41"
+		},
+		{
+			"title": "高速GMAW驼峰焊道形成过程熔池图像识别",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902008&dbname=CJFD2019",
+			"start": "42",
+			"end": "46"
+		},
+		{
+			"title": "镀Cu层调控AZ31B/TC4激光熔钎焊接特性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902009&dbname=CJFD2019",
+			"start": "47",
+			"end": "51"
+		},
+		{
+			"title": "激光穿孔点焊接瞬态过程数值分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902010&dbname=CJFD2019",
+			"start": "52",
+			"end": "57"
+		},
+		{
+			"title": "微小互连Cu-Sn界面钎焊及接头剪切行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902011&dbname=CJFD2019",
+			"start": "58",
+			"end": "63"
+		},
+		{
+			"title": "添加铜箔中间层的NiTi形状记忆合金超声波焊接",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902012&dbname=CJFD2019",
+			"start": "64",
+			"end": "67"
+		},
+		{
+			"title": "氦气保护超低真空电子束焊接束流散射及焊缝形貌分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902013&dbname=CJFD2019",
+			"start": "68",
+			"end": "72"
+		},
+		{
+			"title": "活性剂对TC4薄板背反射增效激光焊接成形的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902014&dbname=CJFD2019",
+			"start": "73",
+			"end": "76"
+		},
+		{
+			"title": "基于最小二乘支持向量机的激光拼焊焊缝识别",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902015&dbname=CJFD2019",
+			"start": "77",
+			"end": "81"
+		},
+		{
+			"title": "Inconel 718镍基合金与304不锈钢电子束焊接",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902016&dbname=CJFD2019",
+			"start": "82",
+			"end": "85"
+		},
+		{
+			"title": "高频微振辅助工艺对激光焊接接头组织性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902017&dbname=CJFD2019",
+			"start": "86",
+			"end": "90"
+		},
+		{
+			"title": "Ti-6Al-4V合金双光束激光焊接T形接头拉伸过程特征",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902018&dbname=CJFD2019",
+			"start": "91",
+			"end": "97"
+		},
+		{
+			"title": "45钢电子束扫描表面W合金化组织和硬度",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902019&dbname=CJFD2019",
+			"start": "98",
+			"end": "103"
+		},
+		{
+			"title": "GTAW填丝增材制造熔池尾部固液分界点跟踪算法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902020&dbname=CJFD2019",
+			"start": "104",
+			"end": "109"
+		},
+		{
+			"title": "C-MoS2-Fe2O3（Fe3O4）纳米润滑剂对无镀铜焊丝导电嘴磨损的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902021&dbname=CJFD2019",
+			"start": "110",
+			"end": "115"
+		},
+		{
+			"title": "埋入式BGA焊点可靠性和信号完整性优化",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902022&dbname=CJFD2019",
+			"start": "116",
+			"end": "122"
+		},
+		{
+			"title": "硅-玻璃-硅阳极键合机理及力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902023&dbname=CJFD2019",
+			"start": "123",
+			"end": "127"
+		},
+		{
+			"title": "2219-T87铝合金拉锻式摩擦塞补焊接头组织及性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902024&dbname=CJFD2019",
+			"start": "128",
+			"end": "132"
+		},
+		{
+			"title": "异种钢LMHW与MIG焊接头力学性能对比分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902025&dbname=CJFD2019",
+			"start": "133",
+			"end": "137"
+		},
+		{
+			"title": "Q345/316L异种钢焊接残余应力与变形数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902026&dbname=CJFD2019",
+			"start": "138",
+			"end": "144"
+		},
+		{
+			"title": "超声辅助铝/钛搅拌摩擦搭接接头的成形和组织",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902027&dbname=CJFD2019",
+			"start": "145",
+			"end": "148"
+		},
+		{
+			"title": "能量输入对微区熔凝铜钢双金属组织和性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902028&dbname=CJFD2019",
+			"start": "149",
+			"end": "153"
+		},
+		{
+			"title": "一种基于CNN深度学习的焊接机器人视觉模型",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201902029&dbname=CJFD2019",
+			"start": "154",
+			"end": "160"
+		},
+		{
+			"title": "基于空间变换原理的直线摆焊算法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903001&dbname=CJFD2019",
+			"start": "1",
+			"end": "5"
+		},
+		{
+			"title": "H13钢激光填丝仿生耦合热疲劳性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903002&dbname=CJFD2019",
+			"start": "6",
+			"end": "10"
+		},
+		{
+			"title": "P92钢焊缝金属高温低周疲劳行为分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903003&dbname=CJFD2019",
+			"start": "11",
+			"end": "14"
+		},
+		{
+			"title": "外拘束角接头旋转电弧焊接应力应变分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903004&dbname=CJFD2019",
+			"start": "15",
+			"end": "20"
+		},
+		{
+			"title": "低活化马氏体钢真空扩散焊接头力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903005&dbname=CJFD2019",
+			"start": "21",
+			"end": "24"
+		},
+		{
+			"title": "面向完整传输路径的BGA焊点信号完整性分析及优化",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903006&dbname=CJFD2019",
+			"start": "25",
+			"end": "31"
+		},
+		{
+			"title": "基于SYSWELD的激光复合焊焊接变形数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903007&dbname=CJFD2019",
+			"start": "32",
+			"end": "36"
+		},
+		{
+			"title": "根部螺纹搅拌针对搭接接头钩状缺陷和性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903008&dbname=CJFD2019",
+			"start": "37",
+			"end": "40"
+		},
+		{
+			"title": "TA1钛合金自冲铆接接头疲劳性能及失效机理分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903009&dbname=CJFD2019",
+			"start": "41",
+			"end": "46"
+		},
+		{
+			"title": "Ag-Cu钎料钎焊ZTA陶瓷与TC4钛合金",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903010&dbname=CJFD2019",
+			"start": "47",
+			"end": "51"
+		},
+		{
+			"title": "基于动态时空规整的系泊链闪光焊接在线质量评估",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903011&dbname=CJFD2019",
+			"start": "52",
+			"end": "58"
+		},
+		{
+			"title": "2219铝合金激光驱动GMAW熔滴过渡行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903012&dbname=CJFD2019",
+			"start": "59",
+			"end": "64"
+		},
+		{
+			"title": "相对流速对316L钢焊缝在液态铅铋合金中腐蚀行为的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903013&dbname=CJFD2019",
+			"start": "65",
+			"end": "70"
+		},
+		{
+			"title": "外加横向磁场对304不锈钢焊接熔池影响机理分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903014&dbname=CJFD2019",
+			"start": "71",
+			"end": "75"
+		},
+		{
+			"title": "激光——电弧复合焊接头根部特性分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903015&dbname=CJFD2019",
+			"start": "76",
+			"end": "79"
+		},
+		{
+			"title": "Q235钢搅拌摩擦焊接头微观组织与力学性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903016&dbname=CJFD2019",
+			"start": "80",
+			"end": "84"
+		},
+		{
+			"title": "铝合金振动焊接过程非线性时间序列模型分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903017&dbname=CJFD2019",
+			"start": "85",
+			"end": "90"
+		},
+		{
+			"title": "Cu-P钎料真空钎焊紫铜的钎焊后扩散及组织分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903018&dbname=CJFD2019",
+			"start": "91",
+			"end": "96"
+		},
+		{
+			"title": "2205双相不锈钢搅拌摩擦焊接头组织和性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903019&dbname=CJFD2019",
+			"start": "97",
+			"end": "101"
+		},
+		{
+			"title": "6061-T6铝合金微搅拌摩擦焊工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903020&dbname=CJFD2019",
+			"start": "102",
+			"end": "106"
+		},
+		{
+			"title": "EH36钢埋弧焊焊缝金属组织临界断裂韧性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903021&dbname=CJFD2019",
+			"start": "107",
+			"end": "110"
+		},
+		{
+			"title": "航空发动机转子组件电子束焊变形预测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903022&dbname=CJFD2019",
+			"start": "111",
+			"end": "117"
+		},
+		{
+			"title": "大面积拼焊平台结构的焊接变形预测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903023&dbname=CJFD2019",
+			"start": "118",
+			"end": "122"
+		},
+		{
+			"title": "错边对钢悬链立管横焊接头疲劳性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903024&dbname=CJFD2019",
+			"start": "123",
+			"end": "127"
+		},
+		{
+			"title": "转速对6082-T6铝合金搅拌摩擦焊焊接接头织构的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903025&dbname=CJFD2019",
+			"start": "128",
+			"end": "132"
+		},
+		{
+			"title": "GTi70与TC4异种钛合金材料激光焊缝组织与性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903026&dbname=CJFD2019",
+			"start": "133",
+			"end": "139"
+		},
+		{
+			"title": "Ti-22Al-27Nb合金线性摩擦焊接头组织与显微硬度分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903027&dbname=CJFD2019",
+			"start": "140",
+			"end": "144"
+		},
+		{
+			"title": "微弧氧化膜对7A52铝合金搅拌摩擦焊接头腐蚀不均匀性的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903028&dbname=CJFD2019",
+			"start": "145",
+			"end": "150"
+		},
+		{
+			"title": "22MnB5热成形钢点焊接头组织演变与性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903029&dbname=CJFD2019",
+			"start": "151",
+			"end": "154"
+		},
+		{
+			"title": "SiC颗粒增强铝基复合材料的连接现状",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201903030&dbname=CJFD2019",
+			"start": "155",
+			"end": "160"
+		},
+		{
+			"title": "CLAM钢焊缝在550°C流动的铅铋合金中的腐蚀行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904001&dbname=CJFD2019",
+			"start": "1",
+			"end": "7"
+		},
+		{
+			"title": "脉冲MAG-TIG双电弧打底单面焊双面成形机制分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904002&dbname=CJFD2019",
+			"start": "8",
+			"end": "15"
+		},
+		{
+			"title": "镀锌层厚度对铝/镀锌板CMT搭接接头组织和性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904003&dbname=CJFD2019",
+			"start": "16",
+			"end": "21"
+		},
+		{
+			"title": "铜/钢异种金属搅拌摩擦焊搭接工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904004&dbname=CJFD2019",
+			"start": "22",
+			"end": "27"
+		},
+		{
+			"title": "新型9Cr-1Mo钢搅拌摩擦焊接头组织及性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904005&dbname=CJFD2019",
+			"start": "28",
+			"end": "35"
+		},
+		{
+			"title": "弧焊逆变电源的网络化CAD系统",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904006&dbname=CJFD2019",
+			"start": "36",
+			"end": "40"
+		},
+		{
+			"title": "Ti811合金表面TC4激光熔覆层微观组织及性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904007&dbname=CJFD2019",
+			"start": "41",
+			"end": "45"
+		},
+		{
+			"title": "双面T形焊件中单侧投影重合缺陷的自动判别方法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904008&dbname=CJFD2019",
+			"start": "46",
+			"end": "49"
+		},
+		{
+			"title": "滚动轧制对铝合金搅拌摩擦焊接头性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904009&dbname=CJFD2019",
+			"start": "50",
+			"end": "54"
+		},
+		{
+			"title": "C18000铜合金搅拌摩擦焊接头微观组织与性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904010&dbname=CJFD2019",
+			"start": "55",
+			"end": "60"
+		},
+		{
+			"title": "铝合金激光扫描焊接工艺特性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904011&dbname=CJFD2019",
+			"start": "61",
+			"end": "66"
+		},
+		{
+			"title": "焊接车间多尘源粉尘分布数学模型和验证",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904012&dbname=CJFD2019",
+			"start": "67",
+			"end": "72"
+		},
+		{
+			"title": "超硬铝合金搅拌摩擦焊全局动态鲁棒控制技术",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904013&dbname=CJFD2019",
+			"start": "73",
+			"end": "78"
+		},
+		{
+			"title": "基于BP神经网络遗传算法的薄板CMT点焊变形",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904014&dbname=CJFD2019",
+			"start": "79",
+			"end": "83"
+		},
+		{
+			"title": "厚板Invar合金多层多道焊反变形数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904015&dbname=CJFD2019",
+			"start": "84",
+			"end": "89"
+		},
+		{
+			"title": "基于热点应力的罐车焊接钢结构疲劳",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904016&dbname=CJFD2019",
+			"start": "90",
+			"end": "94"
+		},
+		{
+			"title": "HVOF/AC-HVAF热喷WC-10Co-4Cr涂层的耐冲蚀性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904017&dbname=CJFD2019",
+			"start": "95",
+			"end": "100"
+		},
+		{
+			"title": "Inconel617合金表面电子束熔覆NbMoCr显微组织和耐腐蚀性的探讨",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904018&dbname=CJFD2019",
+			"start": "101",
+			"end": "106"
+		},
+		{
+			"title": "管路系统焊接接头定位装置的设计",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904019&dbname=CJFD2019",
+			"start": "107",
+			"end": "111"
+		},
+		{
+			"title": "薄板点焊超声检测信号特征分析与缺陷识别",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904020&dbname=CJFD2019",
+			"start": "112",
+			"end": "118"
+		},
+		{
+			"title": "热处理对Ti2AlNb线性摩擦焊接头组织与硬度的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904021&dbname=CJFD2019",
+			"start": "119",
+			"end": "124"
+		},
+		{
+			"title": "锌夹层对铝合金超声搅拌摩擦点焊Hook缺陷的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904022&dbname=CJFD2019",
+			"start": "125",
+			"end": "132"
+		},
+		{
+			"title": "Ti-37.5Zr-15Cu-10Ni钎焊钼的钎缝组织分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904023&dbname=CJFD2019",
+			"start": "133",
+			"end": "136"
+		},
+		{
+			"title": "双脉冲电弧增材制造数值模拟与晶粒细化机理",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904024&dbname=CJFD2019",
+			"start": "137",
+			"end": "140"
+		},
+		{
+			"title": "铝合金无减薄搅拌摩擦焊工艺优化及特征分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904025&dbname=CJFD2019",
+			"start": "141",
+			"end": "147"
+		},
+		{
+			"title": "热输入对不锈钢激光搭接焊接头晶间腐蚀敏感性的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904026&dbname=CJFD2019",
+			"start": "148",
+			"end": "153"
+		},
+		{
+			"title": "石墨烯纳米片对AgCuTi钎料熔点与润湿性的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201904027&dbname=CJFD2019",
+			"start": "154",
+			"end": "160"
+		},
+		{
+			"title": "高效MAG焊接熔滴过渡行为及交变磁场控制试验分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905001&dbname=CJFD2019",
+			"start": "1",
+			"end": "5"
+		},
+		{
+			"title": "X52管线钢水下摩擦圆锥塞焊接头组织特征",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905002&dbname=CJFD2019",
+			"start": "6",
+			"end": "12"
+		},
+		{
+			"title": "基于弹性模量变化的7A52铝合金VPPA-MIG复合焊接残余应力测试",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905003&dbname=CJFD2019",
+			"start": "13",
+			"end": "17"
+		},
+		{
+			"title": "可见光和近红外熔池图像融合方法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905004&dbname=CJFD2019",
+			"start": "18",
+			"end": "23"
+		},
+		{
+			"title": "焊接速度对6005A-T6铝合金双轴肩搅拌摩擦焊接头力学性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905005&dbname=CJFD2019",
+			"start": "24",
+			"end": "29"
+		},
+		{
+			"title": "搅拌针偏置对SR-FSW焊缝界面残留缺陷及接头力学性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905006&dbname=CJFD2019",
+			"start": "30",
+			"end": "35"
+		},
+		{
+			"title": "TiNb钢焊接热影响区微观组织与冲击性能演变规律",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905007&dbname=CJFD2019",
+			"start": "36",
+			"end": "41"
+		},
+		{
+			"title": "复杂结构薄壁件电弧增材制造离线编程技术",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905008&dbname=CJFD2019",
+			"start": "42",
+			"end": "47"
+		},
+		{
+			"title": "斜十字接头三维焊接残余应力的数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905009&dbname=CJFD2019",
+			"start": "48",
+			"end": "53"
+		},
+		{
+			"title": "大型SA508.Gr3低合金钢锻件夹杂物断裂行为分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905010&dbname=CJFD2019",
+			"start": "54",
+			"end": "59"
+		},
+		{
+			"title": "船用耐蚀钢DH36光纤激光-MIG复合焊接头组织和性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905011&dbname=CJFD2019",
+			"start": "60",
+			"end": "66"
+		},
+		{
+			"title": "旋转电极电火花沉积/堆焊的放电机理",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905012&dbname=CJFD2019",
+			"start": "67",
+			"end": "72"
+		},
+		{
+			"title": "焊接电流对M51/B318异种金属精密电阻焊接头质量的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905013&dbname=CJFD2019",
+			"start": "73",
+			"end": "78"
+		},
+		{
+			"title": "凝固条件和应变速率对Sn-58Bi钎料拉伸性能和断裂行为的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905014&dbname=CJFD2019",
+			"start": "79",
+			"end": "83"
+		},
+		{
+			"title": "热影响区连续孔隙状裂纹的表征及产生机理",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905015&dbname=CJFD2019",
+			"start": "84",
+			"end": "88"
+		},
+		{
+			"title": "间隙对GMAW立焊熔滴过渡的影响及温度场特性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905016&dbname=CJFD2019",
+			"start": "89",
+			"end": "94"
+		},
+		{
+			"title": "铜/钢复合接头旁路热丝等离子弧增材特性分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905017&dbname=CJFD2019",
+			"start": "95",
+			"end": "99"
+		},
+		{
+			"title": "CMT电弧增材制造316L不锈钢成形精度与组织性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905018&dbname=CJFD2019",
+			"start": "100",
+			"end": "106"
+		},
+		{
+			"title": "考虑形状比的焊趾裂纹扩展行为的数值仿真分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905019&dbname=CJFD2019",
+			"start": "107",
+			"end": "112"
+		},
+		{
+			"title": "45钢表面电子束微熔抛光的性能和组织分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905020&dbname=CJFD2019",
+			"start": "113",
+			"end": "119"
+		},
+		{
+			"title": "纵向磁场下GTAW电弧传热与流动数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905021&dbname=CJFD2019",
+			"start": "120",
+			"end": "125"
+		},
+		{
+			"title": "脉冲个数调频对铝合金双脉冲焊性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905022&dbname=CJFD2019",
+			"start": "126",
+			"end": "130"
+		},
+		{
+			"title": "焊接工艺对TP304/SS400异种钢焊接接头组织和性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905023&dbname=CJFD2019",
+			"start": "131",
+			"end": "136"
+		},
+		{
+			"title": "黄铜与304不锈钢的电阻软钎焊封装工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905024&dbname=CJFD2019",
+			"start": "137",
+			"end": "142"
+		},
+		{
+			"title": "2219铝合金FSW焊缝摩擦塞补焊接头性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905025&dbname=CJFD2019",
+			"start": "143",
+			"end": "147"
+		},
+		{
+			"title": "一种钛基钎料钎焊TiAl合金接头的高温力学性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905026&dbname=CJFD2019",
+			"start": "148",
+			"end": "153"
+		},
+		{
+			"title": "合金元素对耐候熔敷金属力学及耐蚀性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201905027&dbname=CJFD2019",
+			"start": "154",
+			"end": "160"
+		},
+		{
+			"title": "三丝间接电弧焊电弧形态及焊缝成形分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906001&dbname=CJFD2019",
+			"start": "1",
+			"end": "6"
+		},
+		{
+			"title": "基于示踪粒子的摆动TIG填丝焊熔池行为数值分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906002&dbname=CJFD2019",
+			"start": "7",
+			"end": "13"
+		},
+		{
+			"title": "基于单目视觉的初始焊位导引技术",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906003&dbname=CJFD2019",
+			"start": "14",
+			"end": "18"
+		},
+		{
+			"title": "CoCrAlY表面改性后热障涂层高温氧化及热震性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906004&dbname=CJFD2019",
+			"start": "19",
+			"end": "22"
+		},
+		{
+			"title": "Sn-9Zn-0.1S/Cu焊点液固界面金属间化合物的生长动力学",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906005&dbname=CJFD2019",
+			"start": "23",
+			"end": "28"
+		},
+		{
+			"title": "工艺路径对多层多道激光熔覆残余应力的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906006&dbname=CJFD2019",
+			"start": "29",
+			"end": "33"
+		},
+		{
+			"title": "基于LBP-KPCA特征提取的焊缝超声检测缺陷分类方法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906007&dbname=CJFD2019",
+			"start": "34",
+			"end": "39"
+		},
+		{
+			"title": "GH4169合金与FGH96合金惯性摩擦焊接头组织和力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906008&dbname=CJFD2019",
+			"start": "40",
+			"end": "45"
+		},
+		{
+			"title": "正火处理对Cu/Al爆炸焊接板显微结构及力学性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906009&dbname=CJFD2019",
+			"start": "46",
+			"end": "51"
+		},
+		{
+			"title": "低活化铁素体–马氏体钢搅拌摩擦焊接头组织和性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906010&dbname=CJFD2019",
+			"start": "52",
+			"end": "57"
+		},
+		{
+			"title": "铝/钢固态焊接合界面金属间化合物生长机制",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906011&dbname=CJFD2019",
+			"start": "58",
+			"end": "63"
+		},
+		{
+			"title": "3D封装微尺度CSP焊点随机振动应力应变分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906012&dbname=CJFD2019",
+			"start": "64",
+			"end": "70"
+		},
+		{
+			"title": "Si-glass-Al阳极键合电流特性及其力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906013&dbname=CJFD2019",
+			"start": "71",
+			"end": "76"
+		},
+		{
+			"title": "碳钢双丝与单丝等离子弧增材制造成形及组织特征分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906014&dbname=CJFD2019",
+			"start": "77",
+			"end": "81"
+		},
+		{
+			"title": "高镍球铁同质电焊条焊缝组织形成规律",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906015&dbname=CJFD2019",
+			"start": "82",
+			"end": "86"
+		},
+		{
+			"title": "铁素体不锈钢搅拌摩擦焊工艺及缺陷形成机理",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906016&dbname=CJFD2019",
+			"start": "87",
+			"end": "93"
+		},
+		{
+			"title": "低碳钢等离子-TIG耦合电弧高效复合焊接工艺性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906017&dbname=CJFD2019",
+			"start": "94",
+			"end": "99"
+		},
+		{
+			"title": "激光选区熔化组织分析及人工神经网络力学性能预测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906018&dbname=CJFD2019",
+			"start": "100",
+			"end": "106"
+		},
+		{
+			"title": "基于压焊原理的搅拌摩擦焊匙孔填补技术",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906019&dbname=CJFD2019",
+			"start": "107",
+			"end": "111"
+		},
+		{
+			"title": "轧制+增材TC4合金电子束焊接接头组织与性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906020&dbname=CJFD2019",
+			"start": "112",
+			"end": "117"
+		},
+		{
+			"title": "铝合金搅拌摩擦焊缝摩擦塞补焊组织与力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906021&dbname=CJFD2019",
+			"start": "118",
+			"end": "125"
+		},
+		{
+			"title": "激光成形TC17钛合金线性摩擦焊接头组织与力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906022&dbname=CJFD2019",
+			"start": "126",
+			"end": "130"
+		},
+		{
+			"title": "钒对铁基碳化钨耐磨堆焊层组织和性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906023&dbname=CJFD2019",
+			"start": "131",
+			"end": "136"
+		},
+		{
+			"title": "电子束点焊熔池的液态金属冲刷效应作用规律",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906024&dbname=CJFD2019",
+			"start": "137",
+			"end": "142"
+		},
+		{
+			"title": "钉脚张开度对自冲铆构件机械内锁刚度的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906025&dbname=CJFD2019",
+			"start": "143",
+			"end": "147"
+		},
+		{
+			"title": "基于空间电荷采集实现电子束焊接过程实时监控的装置及方法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906026&dbname=CJFD2019",
+			"start": "148",
+			"end": "152"
+		},
+		{
+			"title": "核电汽轮机焊接转子接头在氯离子环境中的电偶腐蚀行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201906027&dbname=CJFD2019",
+			"start": "153",
+			"end": "160"
+		},
+		{
+			"title": "高频交变磁场对大电流GMAW熔滴过渡和飞溅率的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907002&dbname=CJFD2019",
+			"start": "1",
+			"end": "5"
+		},
+		{
+			"title": "大型激光复合焊接设备",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907001&dbname=CJFD2019",
+			"start": "2"
+		},
+		{
+			"title": "焊接结构学中的热–力耦合问题简析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907003&dbname=CJFD2019",
+			"start": "6",
+			"end": "11"
+		},
+		{
+			"title": "氩等离子体紫外光A和B辐射属性计算",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907004&dbname=CJFD2019",
+			"start": "12",
+			"end": "15"
+		},
+		{
+			"title": "Al2O3/Ti生物相容连接接头微观组织及力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907005&dbname=CJFD2019",
+			"start": "16",
+			"end": "23"
+		},
+		{
+			"title": "航空发动机叶片MPAW修复传热建模及冷却方法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907006&dbname=CJFD2019",
+			"start": "24",
+			"end": "30"
+		},
+		{
+			"title": "双丝三电弧焊中熔滴过渡及焊缝成形机理",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907007&dbname=CJFD2019",
+			"start": "31",
+			"end": "36"
+		},
+		{
+			"title": "铆钉对TA1与1420自冲铆接工艺及失效行为的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907008&dbname=CJFD2019",
+			"start": "37",
+			"end": "43"
+		},
+		{
+			"title": "温度对SA508-Ⅲ钢焊缝金属断裂韧度的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907009&dbname=CJFD2019",
+			"start": "44",
+			"end": "47"
+		},
+		{
+			"title": "铝合金T形接头静止轴肩搅拌摩擦焊接及组织性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907010&dbname=CJFD2019",
+			"start": "48",
+			"end": "54"
+		},
+		{
+			"title": "6N01S-T5铝合金高速激光-MIG复合焊接工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907011&dbname=CJFD2019",
+			"start": "55",
+			"end": "60"
+		},
+		{
+			"title": "42CrMo钢活塞激光-MAG复合焊接热裂纹试验",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907012&dbname=CJFD2019",
+			"start": "61",
+			"end": "66"
+		},
+		{
+			"title": "Ar与H2混合气体保护下GTAW电弧特性数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907013&dbname=CJFD2019",
+			"start": "67",
+			"end": "71"
+		},
+		{
+			"title": "基于网格激光线的横向焊接焊缝下塌检测方法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907014&dbname=CJFD2019",
+			"start": "72",
+			"end": "76"
+		},
+		{
+			"title": "基于缺口应力法的IIW多轴疲劳准则分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907015&dbname=CJFD2019",
+			"start": "77",
+			"end": "81"
+		},
+		{
+			"title": "基于结构光的焊点智能识别算法设计",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907016&dbname=CJFD2019",
+			"start": "82",
+			"end": "87"
+		},
+		{
+			"title": "考虑多裂纹的焊趾裂纹扩展行为的数值仿真分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907017&dbname=CJFD2019",
+			"start": "88",
+			"end": "93"
+		},
+		{
+			"title": "新型双脉冲MIG焊接电源",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907018&dbname=CJFD2019",
+			"start": "94",
+			"end": "99"
+		},
+		{
+			"title": "基于有限元的激光增材过程熔化热积累模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907019&dbname=CJFD2019",
+			"start": "100",
+			"end": "104"
+		},
+		{
+			"title": "镍基合金焊丝GTAW熔敷金属凝固偏析行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907020&dbname=CJFD2019",
+			"start": "105",
+			"end": "108"
+		},
+		{
+			"title": "高强Al-Mg合金钨极氩弧双丝增材制造工艺与组织性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907021&dbname=CJFD2019",
+			"start": "109",
+			"end": "113"
+		},
+		{
+			"title": "激光熔覆高铬铁基合金的组织形成机制及对显微硬度的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907022&dbname=CJFD2019",
+			"start": "114",
+			"end": "120"
+		},
+		{
+			"title": "TC4厚壁管全位置PAW工艺及接头性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907023&dbname=CJFD2019",
+			"start": "121",
+			"end": "126"
+		},
+		{
+			"title": "WC和Al2O3对氩弧熔覆FeAlCoCrCuTi0.4高熵合金涂层组织和耐冲蚀性能影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907024&dbname=CJFD2019",
+			"start": "127",
+			"end": "132"
+		},
+		{
+			"title": "压痕应变法应力计算函数和低合金钢力学性能的关系",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907025&dbname=CJFD2019",
+			"start": "133",
+			"end": "138"
+		},
+		{
+			"title": "疲劳裂纹扩展过程中焊接残余应力重分布测试",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907026&dbname=CJFD2019",
+			"start": "139",
+			"end": "142"
+		},
+		{
+			"title": "超级双相不锈钢多层多道焊接接头组织及腐蚀性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907027&dbname=CJFD2019",
+			"start": "143",
+			"end": "148"
+		},
+		{
+			"title": "水下湿法手工自蔓延焊接技术",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907028&dbname=CJFD2019",
+			"start": "149",
+			"end": "155"
+		},
+		{
+			"title": "一种Ti-6Al-4V功能梯度网状结构的设计与压缩性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201907029&dbname=CJFD2019",
+			"start": "156",
+			"end": "160"
+		},
+		{
+			"title": "旁路耦合电弧增材制造热过程与组织关系",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908001&dbname=CJFD2019",
+			"start": "1",
+			"end": "6"
+		},
+		{
+			"title": "铝合金激光诱导MIG电弧增材制造成形尺寸规律",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908002&dbname=CJFD2019",
+			"start": "7",
+			"end": "12"
+		},
+		{
+			"title": "钛/铝异种金属冷金属过渡增材制造",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908003&dbname=CJFD2019",
+			"start": "13",
+			"end": "17"
+		},
+		{
+			"title": "不锈钢/碳钢TIG焊熔池表面流动行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908004&dbname=CJFD2019",
+			"start": "18",
+			"end": "25"
+		},
+		{
+			"title": "Ti/Cu异种金属电子束焊接界面行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908005&dbname=CJFD2019",
+			"start": "26",
+			"end": "32"
+		},
+		{
+			"title": "CO2焊的负载伏安动特性及焊缝成形比较分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908006&dbname=CJFD2019",
+			"start": "33",
+			"end": "37"
+		},
+		{
+			"title": "超窄间隙焊接Q235/1Cr18Ni9Ti异种钢接头组织及力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908007&dbname=CJFD2019",
+			"start": "38",
+			"end": "43"
+		},
+		{
+			"title": "高温蠕变下表面多裂纹扩展行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908008&dbname=CJFD2019",
+			"start": "44",
+			"end": "49"
+		},
+		{
+			"title": "316不锈钢超薄板脉冲激光焊残余应力及变形",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908009&dbname=CJFD2019",
+			"start": "50",
+			"end": "54"
+		},
+		{
+			"title": "Zr对高强度钢热影响区第二相粒子及韧性影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908010&dbname=CJFD2019",
+			"start": "55",
+			"end": "62"
+		},
+		{
+			"title": "基于结构应力法的环焊结构S-N曲线分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908011&dbname=CJFD2019",
+			"start": "63",
+			"end": "68"
+		},
+		{
+			"title": "FBG超声波焊接封装及其弯曲传感特性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908012&dbname=CJFD2019",
+			"start": "69",
+			"end": "75"
+		},
+		{
+			"title": "基于焊工调节的铝合金脉冲MIG焊背面熔透建模",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908013&dbname=CJFD2019",
+			"start": "76",
+			"end": "79"
+		},
+		{
+			"title": "P92钢焊接接头蠕变损伤与裂纹扩展数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908014&dbname=CJFD2019",
+			"start": "80",
+			"end": "88"
+		},
+		{
+			"title": "核级316LN不锈钢焊接接头的组织结构变化",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908015&dbname=CJFD2019",
+			"start": "89",
+			"end": "95"
+		},
+		{
+			"title": "高强韧CuZnNiMn纽扣钎料钎焊截齿接头组织与性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908016&dbname=CJFD2019",
+			"start": "96",
+			"end": "103"
+		},
+		{
+			"title": "ULCB钢电子束穿透焊组织与性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908017&dbname=CJFD2019",
+			"start": "104",
+			"end": "108"
+		},
+		{
+			"title": "温度场对电弧喷涂热应力的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908018&dbname=CJFD2019",
+			"start": "109",
+			"end": "112"
+		},
+		{
+			"title": "时效处理对镍/巴氏合金界面组织及性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908019&dbname=CJFD2019",
+			"start": "113",
+			"end": "117"
+		},
+		{
+			"title": "超声冲击态焊接接头疲劳性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908020&dbname=CJFD2019",
+			"start": "118",
+			"end": "123"
+		},
+		{
+			"title": "回流温度对单板/板级BGA无铅焊点的剪切力学行为影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908021&dbname=CJFD2019",
+			"start": "124",
+			"end": "130"
+		},
+		{
+			"title": "正交异性钢桥面横隔板弧形切口焊接残余应力分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908022&dbname=CJFD2019",
+			"start": "131",
+			"end": "137"
+		},
+		{
+			"title": "基于内聚力单元与XFEM的热障涂层失效分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908023&dbname=CJFD2019",
+			"start": "138",
+			"end": "143"
+		},
+		{
+			"title": "钎焊方法制备泡沫铝/铝夹芯板的组织及性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908024&dbname=CJFD2019",
+			"start": "144",
+			"end": "149"
+		},
+		{
+			"title": "钛合金薄板不同连接方法的拉剪和疲劳性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908025&dbname=CJFD2019",
+			"start": "150",
+			"end": "154"
+		},
+		{
+			"title": "铝锂合金焊接技术的研究现状分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201908026&dbname=CJFD2019",
+			"start": "155",
+			"end": "160"
+		},
+		{
+			"title": "基于温度函数法的铝合金电弧增材制造残余应力与变形数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909001&dbname=CJFD2019",
+			"start": "1",
+			"end": "6"
+		},
+		{
+			"title": "TiZrNiCu钎焊(C_f-SiC_f)/SiBCN与Nb的界面产物及机理分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909002&dbname=CJFD2019",
+			"start": "7",
+			"end": "13"
+		},
+		{
+			"title": "纯钛TA2薄板双钨极氩弧焊焊接工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909003&dbname=CJFD2019",
+			"start": "14",
+			"end": "18"
+		},
+		{
+			"title": "补焊长度对P92补焊残余应力的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909004&dbname=CJFD2019",
+			"start": "19",
+			"end": "24"
+		},
+		{
+			"title": "焊接残余应力对7N01铝合金疲劳裂纹扩展影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909005&dbname=CJFD2019",
+			"start": "25",
+			"end": "29"
+		},
+		{
+			"title": "耐腐蚀性镍基箔带钎料钎焊不锈钢接头性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909006&dbname=CJFD2019",
+			"start": "30",
+			"end": "38"
+		},
+		{
+			"title": "FCBGA器件SnAgCu焊点的热冲击可靠性分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909007&dbname=CJFD2019",
+			"start": "39",
+			"end": "42"
+		},
+		{
+			"title": "不同退火条件下304L不锈钢埋弧焊接头组织及性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909008&dbname=CJFD2019",
+			"start": "43",
+			"end": "48"
+		},
+		{
+			"title": "组织不均匀性对TA15钛合金电子束焊焊接接头热影响区应变集中的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909009&dbname=CJFD2019",
+			"start": "49",
+			"end": "52"
+		},
+		{
+			"title": "真空室窗口领圈316L厚板电子束焊接接头不均匀性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909010&dbname=CJFD2019",
+			"start": "53",
+			"end": "58"
+		},
+		{
+			"title": "异种钛合金协同送丝等离子增材制造试验",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909011&dbname=CJFD2019",
+			"start": "59",
+			"end": "64"
+		},
+		{
+			"title": "激光介入不锈钢自保护药芯焊丝MAG电弧堆焊熔滴受力分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909012&dbname=CJFD2019",
+			"start": "65",
+			"end": "70"
+		},
+		{
+			"title": "非对称角根焊中焊枪偏移与熔透形态的关系",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909013&dbname=CJFD2019",
+			"start": "71",
+			"end": "76"
+		},
+		{
+			"title": "焊接裂纹磁场模拟及磁光成像检测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909014&dbname=CJFD2019",
+			"start": "77",
+			"end": "81"
+		},
+		{
+			"title": "局部干法环境下GMAW横向焊接熔滴过渡特性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909015&dbname=CJFD2019",
+			"start": "82",
+			"end": "86"
+		},
+		{
+			"title": "TA2-1060-TA2复合板爆炸焊接试验及性能测试",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909016&dbname=CJFD2019",
+			"start": "87",
+			"end": "92"
+		},
+		{
+			"title": "导能筋形状对超声波焊接CF/PEEK接头组织和力学性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909017&dbname=CJFD2019",
+			"start": "93",
+			"end": "98"
+		},
+		{
+			"title": "旁路分流电弧钎焊钛/钢异种金属接头特性分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909018&dbname=CJFD2019",
+			"start": "99",
+			"end": "103"
+		},
+		{
+			"title": "高频逆变弧焊电源叠层母线的设计建模与验证",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909019&dbname=CJFD2019",
+			"start": "104",
+			"end": "110"
+		},
+		{
+			"title": "Mo元素含量对FeAlCuCrNiMo_x系高熵合金组织结构及性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909020&dbname=CJFD2019",
+			"start": "111",
+			"end": "115"
+		},
+		{
+			"title": "Ta1与0Cr18Ni9薄板的储能焊试验",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909021&dbname=CJFD2019",
+			"start": "116",
+			"end": "121"
+		},
+		{
+			"title": "陶瓷硬质相对铁基复合材料组织和性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909022&dbname=CJFD2019",
+			"start": "122",
+			"end": "127"
+		},
+		{
+			"title": "Co-Nb-Pd-Ni-V钎料真空钎焊C_f/SiC复合材料的接头组织与性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909023&dbname=CJFD2019",
+			"start": "128",
+			"end": "132"
+		},
+		{
+			"title": "钛合金/Cu/不锈钢扩散焊界面化合物生长行为解析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909024&dbname=CJFD2019",
+			"start": "133",
+			"end": "138"
+		},
+		{
+			"title": "钎料形态对半固态加压反应钎焊接头的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909025&dbname=CJFD2019",
+			"start": "139",
+			"end": "144"
+		},
+		{
+			"title": "异种铝合金摩擦塞补焊工艺与组织性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909026&dbname=CJFD2019",
+			"start": "145",
+			"end": "150"
+		},
+		{
+			"title": "纯铝1060/镀锌钢电阻点钎焊工艺及接头性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909027&dbname=CJFD2019",
+			"start": "151",
+			"end": "155"
+		},
+		{
+			"title": "TC17钛合金线性摩擦焊接头组织及性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201909028&dbname=CJFD2019",
+			"start": "156",
+			"end": "160"
+		},
+		{
+			"title": "基于组合激光结构光的多功能视觉传感器",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910001&dbname=CJFD2019",
+			"start": "1",
+			"end": "7"
+		},
+		{
+			"title": "电模拟惯性摩擦焊接技术",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910002&dbname=CJFD2019",
+			"start": "8",
+			"end": "14"
+		},
+		{
+			"title": "TiN对Fe-Cr-C耐磨堆焊合金组织及耐磨性影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910003&dbname=CJFD2019",
+			"start": "15",
+			"end": "19"
+		},
+		{
+			"title": "7N01铝合金十字接头抗疲劳设计",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910004&dbname=CJFD2019",
+			"start": "20",
+			"end": "24"
+		},
+		{
+			"title": "自保护药芯焊丝焊接工艺参数的敏感性分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910005&dbname=CJFD2019",
+			"start": "25",
+			"end": "30"
+		},
+		{
+			"title": "冷却速率对高氮钢焊缝组织和性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910006&dbname=CJFD2019",
+			"start": "31",
+			"end": "35"
+		},
+		{
+			"title": "工件倾角对脉冲MAG焊接熔池形态和焊缝尺寸的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910007&dbname=CJFD2019",
+			"start": "36",
+			"end": "42"
+		},
+		{
+			"title": "铝合金厚板激光扫描填丝焊接气孔抑制",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910008&dbname=CJFD2019",
+			"start": "43",
+			"end": "47"
+		},
+		{
+			"title": "高强钢金属芯焊丝E120C-K4熔敷金属粗晶区显微组织对冲击韧性的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910009&dbname=CJFD2019",
+			"start": "48",
+			"end": "53"
+		},
+		{
+			"title": "45钢上堆焊Fe-C-Cr-Nb合金的压缩疲劳行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910010&dbname=CJFD2019",
+			"start": "54",
+			"end": "59"
+		},
+		{
+			"title": "基于空气耦合超声的激光焊缝质量评估",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910011&dbname=CJFD2019",
+			"start": "60",
+			"end": "66"
+		},
+		{
+			"title": "Na2SiF6活性激光焊接TC4钛合金焊缝成形和组织",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910012&dbname=CJFD2019",
+			"start": "67",
+			"end": "72"
+		},
+		{
+			"title": "同种材质焊接接头弯曲试验特性分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910013&dbname=CJFD2019",
+			"start": "73",
+			"end": "79"
+		},
+		{
+			"title": "一种钛基钎料钎焊TiAl/GH536的接头界面组织及性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910014&dbname=CJFD2019",
+			"start": "80",
+			"end": "85"
+		},
+		{
+			"title": "高强铝合金PVPPAW焊接参数优化与性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910015&dbname=CJFD2019",
+			"start": "86",
+			"end": "92"
+		},
+		{
+			"title": "耗材摩擦焊接过程热力耦合分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910016&dbname=CJFD2019",
+			"start": "93",
+			"end": "99"
+		},
+		{
+			"title": "厚壁结构件电弧增材制造成形方法及工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910017&dbname=CJFD2019",
+			"start": "100",
+			"end": "105"
+		},
+		{
+			"title": "多尺度纳米银烧结接头连接强度及塑性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910018&dbname=CJFD2019",
+			"start": "106",
+			"end": "110"
+		},
+		{
+			"title": "天然气管道在役修补焊接过程的数值模拟",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910019&dbname=CJFD2019",
+			"start": "111",
+			"end": "115"
+		},
+		{
+			"title": "薄板TIG堆焊屈曲变形的预测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910020&dbname=CJFD2019",
+			"start": "116",
+			"end": "120"
+		},
+		{
+			"title": "电子束熔丝成形Ti-6Al-3Nb-2Zr-Mo合金的组织与力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910021&dbname=CJFD2019",
+			"start": "121",
+			"end": "126"
+		},
+		{
+			"title": "SAF2507超级双相不锈钢CMT+P熔滴过渡特性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910022&dbname=CJFD2019",
+			"start": "127",
+			"end": "136"
+		},
+		{
+			"title": "K447A+GH4169惯性摩擦焊接头组织与高温力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910023&dbname=CJFD2019",
+			"start": "137",
+			"end": "141"
+		},
+		{
+			"title": "2195铝锂合金摩擦搅拌焊接头组织与腐蚀行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910024&dbname=CJFD2019",
+			"start": "142",
+			"end": "147"
+		},
+		{
+			"title": "TC4钛合金/304不锈钢异种材料蜂窝结构钎焊工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910025&dbname=CJFD2019",
+			"start": "148",
+			"end": "155"
+		},
+		{
+			"title": "转速对2060铝锂合金RFSSW接头成形及拉剪性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201910026&dbname=CJFD2019",
+			"start": "156",
+			"end": "160"
+		},
+		{
+			"title": "旁路耦合微束等离子弧增材制造自适应高度控制系统",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911001&dbname=CJFD2019",
+			"start": "1",
+			"end": "7"
+		},
+		{
+			"title": "氢致裂纹中氢压的理论表征及有限元求解方法",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911002&dbname=CJFD2019",
+			"start": "8",
+			"end": "12"
+		},
+		{
+			"title": "面向虚拟现实人机协作焊接系统的运动控制策略",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911003&dbname=CJFD2019",
+			"start": "13",
+			"end": "20"
+		},
+		{
+			"title": "多臂协同焊接机器人运动学逆解及误差分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911004&dbname=CJFD2019",
+			"start": "21",
+			"end": "27"
+		},
+		{
+			"title": "气流再压缩等离子弧焊接工艺初步探究",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911005&dbname=CJFD2019",
+			"start": "28",
+			"end": "32"
+		},
+		{
+			"title": "316L对接焊缝相控阵超声检测工艺模拟与试验验证",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911006&dbname=CJFD2019",
+			"start": "33",
+			"end": "38"
+		},
+		{
+			"title": "电弧能量匹配对前后列置双TIG高速焊接焊缝组织与性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911007&dbname=CJFD2019",
+			"start": "39",
+			"end": "44"
+		},
+		{
+			"title": "不等厚板搭接焊缝缺陷数字X射线检测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911008&dbname=CJFD2019",
+			"start": "45",
+			"end": "48"
+		},
+		{
+			"title": "薄板机器人自动焊接焊枪三维偏差的有效提取",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911009&dbname=CJFD2019",
+			"start": "49",
+			"end": "53"
+		},
+		{
+			"title": "咬边缺陷对TC4钛合金激光焊接头静力拉伸形变特征的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911010&dbname=CJFD2019",
+			"start": "54",
+			"end": "60"
+		},
+		{
+			"title": "铝合金多股复合焊丝脉冲MIG焊接接头组织与性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911011&dbname=CJFD2019",
+			"start": "61",
+			"end": "67"
+		},
+		{
+			"title": "激光送粉增材制造光粉交互作用机制分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911012&dbname=CJFD2019",
+			"start": "68",
+			"end": "74"
+		},
+		{
+			"title": "焊趾多裂纹的试验与仿真分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911013&dbname=CJFD2019",
+			"start": "75",
+			"end": "81"
+		},
+		{
+			"title": "基于本征应变法修正厚板轮廓法应力测试误差",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911014&dbname=CJFD2019",
+			"start": "82",
+			"end": "86"
+		},
+		{
+			"title": "130 mm铝合金扫描激光填丝焊接头微区组织和性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911015&dbname=CJFD2019",
+			"start": "87",
+			"end": "92"
+		},
+		{
+			"title": "C18150合金搅拌摩擦焊焊缝微观组织与力学性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911016&dbname=CJFD2019",
+			"start": "93",
+			"end": "99"
+		},
+		{
+			"title": "气体流量对射频等离子体球化GH4169合金粉末的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911017&dbname=CJFD2019",
+			"start": "100",
+			"end": "105"
+		},
+		{
+			"title": "镁/铝合金回填式搅拌摩擦点焊的组织与性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911018&dbname=CJFD2019",
+			"start": "106",
+			"end": "110"
+		},
+		{
+			"title": "热辅助超声波增材制造设备设计与分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911019&dbname=CJFD2019",
+			"start": "111",
+			"end": "118"
+		},
+		{
+			"title": "等离子弧异质异构增材制造构件的组织与力学性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911020&dbname=CJFD2019",
+			"start": "119",
+			"end": "124"
+		},
+		{
+			"title": "K-TIG焊接接头的应力与变形",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911021&dbname=CJFD2019",
+			"start": "125",
+			"end": "132"
+		},
+		{
+			"title": "激光熔覆在AlN陶瓷表面制备铜基金属覆层缺陷分析及控制",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911022&dbname=CJFD2019",
+			"start": "133",
+			"end": "138"
+		},
+		{
+			"title": "TC4钛合金消音蜂窝结构钎焊工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911023&dbname=CJFD2019",
+			"start": "139",
+			"end": "146"
+		},
+		{
+			"title": "2A97铝锂合金激光焊T形接头组织及性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911024&dbname=CJFD2019",
+			"start": "147",
+			"end": "154"
+		},
+		{
+			"title": "薄板铝合金搅拌摩擦焊接头变形情况分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201911025&dbname=CJFD2019",
+			"start": "155",
+			"end": "160"
+		},
+		{
+			"title": "T形接头角接静轴肩搅拌摩擦焊三维流动特征",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912001&dbname=CJFD2019",
+			"start": "1",
+			"end": "5"
+		},
+		{
+			"title": "脉冲电流波形对Tandem双丝MIG焊力学性能影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912002&dbname=CJFD2019",
+			"start": "6",
+			"end": "10"
+		},
+		{
+			"title": "AgCu+SiC复合钎料中SiC含量对Al2O3/TC4接头组织和性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912003&dbname=CJFD2019",
+			"start": "11",
+			"end": "16"
+		},
+		{
+			"title": "脉冲激光与电弧布置方式对铝合金焊接熔滴过渡与焊缝形貌的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912004&dbname=CJFD2019",
+			"start": "17",
+			"end": "24"
+		},
+		{
+			"title": "TATM700钢等离子-MIG复合焊接工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912005&dbname=CJFD2019",
+			"start": "25",
+			"end": "30"
+		},
+		{
+			"title": "CMT+P过程及后热处理对TC4钛合金增材构件组织和性能影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912006&dbname=CJFD2019",
+			"start": "31",
+			"end": "35"
+		},
+		{
+			"title": "基于全聚焦成像技术的焊缝近表面平面类缺陷检测",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912007&dbname=CJFD2019",
+			"start": "36",
+			"end": "40"
+		},
+		{
+			"title": "X100管线钢焊接冷裂纹敏感性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912008&dbname=CJFD2019",
+			"start": "41",
+			"end": "46"
+		},
+		{
+			"title": "不同层间停留时间下电弧增材制造2Cr13薄壁件热力学行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912009&dbname=CJFD2019",
+			"start": "47",
+			"end": "52"
+		},
+		{
+			"title": "镍对铜/不锈钢GTAW接头导电性及腐蚀性能的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912010&dbname=CJFD2019",
+			"start": "53",
+			"end": "58"
+		},
+		{
+			"title": "基于光谱诊断的氩氮TIG焊电弧物理特性分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912011&dbname=CJFD2019",
+			"start": "59",
+			"end": "62"
+		},
+		{
+			"title": "单道多层电弧增材制造成形控制理论分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912012&dbname=CJFD2019",
+			"start": "63",
+			"end": "67"
+		},
+		{
+			"title": "环保焊枪吸烟对小电流CO2气体保护电弧焊的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912013&dbname=CJFD2019",
+			"start": "68",
+			"end": "72"
+		},
+		{
+			"title": "超高功率激光-电弧复合焊接特性分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912014&dbname=CJFD2019",
+			"start": "73",
+			"end": "77"
+		},
+		{
+			"title": "悬空特征结构件电弧增材制造成形及算法优化",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912015&dbname=CJFD2019",
+			"start": "78",
+			"end": "82"
+		},
+		{
+			"title": "高强钢三明治板T形接头焊剂片约束电弧焊电弧行为",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912016&dbname=CJFD2019",
+			"start": "83",
+			"end": "90"
+		},
+		{
+			"title": "1561铝合金搅拌摩擦焊接过程压力特征及接头组织性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912017&dbname=CJFD2019",
+			"start": "91",
+			"end": "96"
+		},
+		{
+			"title": "核级316H管道熔敷金属蠕变性能表征",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912018&dbname=CJFD2019",
+			"start": "97",
+			"end": "101"
+		},
+		{
+			"title": "焊接缺陷磁光成像磁场分布数值模拟与试验分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912019&dbname=CJFD2019",
+			"start": "102",
+			"end": "108"
+		},
+		{
+			"title": "高氧TC4/TC17钛合金线性摩擦焊接头组织特征及力学性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912020&dbname=CJFD2019",
+			"start": "109",
+			"end": "114"
+		},
+		{
+			"title": "异种钢电阻塞焊飞溅缺陷的产生机理",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912021&dbname=CJFD2019",
+			"start": "115",
+			"end": "120"
+		},
+		{
+			"title": "超厚板TC4钛合金电子束焊接接头应力腐蚀敏感性",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912022&dbname=CJFD2019",
+			"start": "121",
+			"end": "128"
+		},
+		{
+			"title": "船用铝/钢焊接接头BC-MIG电弧增材制造工艺",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912023&dbname=CJFD2019",
+			"start": "129",
+			"end": "132"
+		},
+		{
+			"title": "TC21+TC4-DT线性摩擦焊接头组织与力学性能试验",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912024&dbname=CJFD2019",
+			"start": "133",
+			"end": "137"
+		},
+		{
+			"title": "Zr67.8Cu24.7Al3.43Ni4.07非晶合金激光焊接晶化控制及组织性能分析",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912025&dbname=CJFD2019",
+			"start": "138",
+			"end": "142"
+		},
+		{
+			"title": "TC4钛合金水下湿法激光焊接焊缝组织与性能",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912026&dbname=CJFD2019",
+			"start": "143",
+			"end": "148"
+		},
+		{
+			"title": "超声冲击强度对焊接接头疲劳寿命的影响",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912027&dbname=CJFD2019",
+			"start": "149",
+			"end": "153"
+		},
+		{
+			"title": "超高频电弧增材制造GH4169合金热处理组织",
+			"year": "2019",
+			"link": "http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=HJXB201912028&dbname=CJFD2019",
+			"start": "154",
+			"end": "160"
+		}
+	]
+}

@@ -1,14 +1,63 @@
 const Excel = require('exceljs');
 const journal = process.argv.slice(2)[0];
-const data = require(`../../data/analysis/${journal}.json`);
+const data0 = require(`../../data/analysis/${journal}.json`);
+let data = {};
+if(process.argv.slice(2).length!==1){
+  let year = process.argv.slice(2)[1];
+  const data1 = require(`../../data/analysis/${journal}-${year}.json`);
+  data = data1;
+} else {
+  data = data0;
+}
 
+// 对于电焊机：http://www.71dhj.com/；收录信息/收录类别代码 ：无
+// 对于焊管：http://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=HGZZ&Year=&Issue=&Entry=；收录信息/收录类别代码 ：无
+// 对于焊接学报：http://hjxb.cnjournals.net/ch/index.aspx；收录信息/收录类别代码 ：EI; Peking
+// 对于焊接：http://hj.cnjournals.net/ch/index.aspx；对于收录信息/收录类别代码 ：无
+// 对于焊接技术：http://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=HSJJ；收录信息/收录类别代码 ：无
+let urlLink = '';
+let paperName = '';
+let typeCode = '';
+switch (journal) {
+	case 'HJXB':
+		urlLink = 'http://hjxb.cnjournals.net/ch/index.aspx';
+		paperName = '焊接学报';
+		typeCode = 'EI; Peking';
+		break;
+	case 'HAJA':
+		urlLink = 'http://hj.cnjournals.net/ch/index.aspx';
+		paperName = '焊接';
+		typeCode = '';
+		break;
+	case 'HSJJ':
+		urlLink = 'http://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=HSJJ';
+		paperName = '焊接技术';
+		typeCode = '';
+		break;
+	case 'DHJI':
+		urlLink = 'http://www.71dhj.com/';
+		paperName = '电焊机';
+		typeCode = '';
+		break;
+	case 'HGZZ':
+		urlLink = 'http://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=HGZZ&Year=&Issue=&Entry=';
+		paperName = '焊管';
+		typeCode = '';
+		break;
+
+	default:
+		urlLink = 'default';
+		paperName = 'default';
+		typeCode = 'default';
+		break;
+}
 // 数据预处理
 let input = [];
 let obj = [];
-for(let i=0;i<data.data.length;i++){
-  if(data.data[i].author && data.data[i].author.length!==0){
-    obj.push(data.data[i]);
-  }
+for (let i = 0; i < data.data.length; i++) {
+	if (data.data[i].author && data.data[i].author.length !== 0) {
+		obj.push(data.data[i]);
+	}
 }
 console.log(obj[0].link);
 console.log(typeof obj[0].link);
@@ -17,15 +66,35 @@ obj.forEach((item, index) => {
 	let len = item.author.length;
 
 	let link = item.link;
-	let reg = /HJXB201([0-9]{1})([0-9]{2})/i;
+	let reg = /(\S+)201([0-9]{1})([0-9]{2})/i;
 
 	let year = -1;
 	let juan = -1;
-	let vol = -1; 
+	let vol = -1;
 	if (link) {
 		year = link.substring(link.length - 4, link.length);
-		juan = year - 1970;
-		  vol = reg.exec(link)[2];
+		switch (journal) {
+			case 'HJXB':
+				juan = year - 1979;
+				break;
+			case 'HAJA':
+				juan = '';
+				break;
+			case 'HSJJ':
+      juan = year - 1971;
+				break;
+			case 'DHJI':
+				juan = year - 1970;
+				break;
+			case 'HGZZ':
+				juan = year - 1977;
+				break;
+
+			default:
+				juan = '';
+				break;
+		}
+		vol = reg.exec(link)[3];
 	}
 
 	for (let i = 0; i < len; i++) {
@@ -40,10 +109,12 @@ obj.forEach((item, index) => {
 			juan: juan,
 			vol: vol,
 			keyType: '关键词',
-			paperName: '焊接学报',
+			paperName: paperName,
 			keywords: item.keywords,
 			start: item.start,
 			end: item.end,
+			URI: urlLink,
+			typeCode: typeCode,
 		});
 	}
 });
@@ -80,7 +151,7 @@ sheet.addRows(input);
 
 // 合并单元格
 let nameLength = [];
-obj.forEach(item => {
+obj.forEach((item) => {
 	if (item.author.length) {
 		nameLength.push(item.author.length);
 	} else {
@@ -96,11 +167,11 @@ for (let i = 0; i < nameLength.length; i++) {
 	let head = ret[ret.length - 1];
 	if (ret.length % 2 === 0) {
 		ret.push(head + 1);
-    // console.log('head' + head);
-    i--;
+		// console.log('head' + head);
+		i--;
 	} else {
-    ret.push(head + nameLength[i] - 1);
-    // i = 0 2 4 6 8?????
+		ret.push(head + nameLength[i] - 1);
+		// i = 0 2 4 6 8?????
 		// console.log('name' + nameLength[i] + ' i: ' + i);
 		// console.log('head' + head);
 	}
@@ -128,7 +199,17 @@ for (let j = 0; j < ret.length; j += 2) {
 	sheet.mergeCells(`R${ret[j]}:R${ret[j + 1]}`);
 }
 
-workbook.xlsx.writeFile(`./src/rebuild/data/out/${journal}.xlsx`).then(function() {
-	// done
-	console.log('done');
-});
+
+
+if(process.argv.slice(2).length!==1){
+  let year = process.argv.slice(2)[1];
+  workbook.xlsx.writeFile(`./src/rebuild/data/out/${journal}-${year}.xlsx`).then(function () {
+    // done
+    console.log('done');
+  });
+} else {
+  workbook.xlsx.writeFile(`./src/rebuild/data/out/${journal}.xlsx`).then(function () {
+    // done
+    console.log('done');
+  });
+}
