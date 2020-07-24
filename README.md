@@ -38,7 +38,7 @@ nrm use taobao
 ### examples
 
 1. `npm run crawler HJXB` 表示爬取2010-2013 的焊接学报
-2. `npm run abstarct HJXB 2019` 表示获取2019年的焊接学报的摘要等信息
+2. `npm run abstract HJXB 2019` 表示获取2019年的焊接学报的摘要等信息
 
 ### 缩写
 

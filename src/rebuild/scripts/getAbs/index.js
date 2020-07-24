@@ -22,7 +22,7 @@ puppeteer
 	})
 	.then(async (browser) => {
 		// TODO from 0
-		for (let i = 0; i < len; i++) {
+		for (let i = 15; i < len; i++) {
 			const res = await getAbstract(data.data[i].link, browser);
 			console.log(`${i}: ${res.keywords.slice(0, 5)}-${res.abstract.slice(0, 5)}`);
 			data.data[i].abstract = res.abstract;
@@ -88,7 +88,7 @@ async function getAbstract(link, browser) {
 			if (arr.length != 0) {
 				for (let i = 0; i < arr.length; i++) {
           // 删掉邮箱
-					let name = arr[i].children[0].text;
+					let name = arr[i].children[0]?arr[i].children[0].text:'';
 					const reg = /'(\S+)','([\S\s]+)','(\d+)'/g;
 					let str = reg.exec(arr[i].innerHTML);
 					let field = '';
