@@ -1,6 +1,8 @@
 # 写给大家看的README
 
-项目地址：[https://gitee.com/alfxjx/CNKI-HJXB-Crawler](https://gitee.com/alfxjx/CNKI-HJXB-Crawler)
+**本项目仅供学习使用！！！**
+
+**gitee更新的快一点，项目地址**：[https://gitee.com/alfxjx/CNKI-HJXB-Crawler](https://gitee.com/alfxjx/CNKI-HJXB-Crawler)
 
 ## 环境安装
 
